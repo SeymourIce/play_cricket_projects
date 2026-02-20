@@ -1,0 +1,252 @@
+position,batsman_name,batsman_id,how_out,fielder_name,fielder_id,bowler_name,bowler_id,runs,fours,sixes,balls,team_name,team_id,opposition_name,opposition_id,innings,match_id,not_out,initial_name
+5,Callum Wilson,5497375,b,,,Thomas Broughton,6595168,124,18,3,88,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,C Wilson
+2,Yusuf Khan,4940735,b,,,Mark Schumann,15786,118,15,3,94,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,Y Khan
+2,James Lagdon,4576697,b,,,Shiras Mohamed Mohamed Munas,5103391,105,14,1,114,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,J Lagdon
+1,Edward Pike,6676091,retired not out,,,,,102,14,4,55,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,1.0,E Pike
+2,Yusuf Khan,4940735,ct,Oliver Andrews,451346,Ciaran Woodcock,5029510,95,15,3,68,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,Y Khan
+6,Mohamed Shakir Badurdeen,5378398,not out,,,,,91,9,5,65,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,1.0,MS Badurdeen
+3,Rishy M,5340615,ct,J O'Brien,,Vaibhav X,,90,12,2,84,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,R M
+4,Rishy M,5340615,ct,Ted Sussum,4951412,Alex Jackson,6057697,75,12,3,48,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,R M
+4,Rob Leybourne,5363547,b,,,Unsure,,66,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,R Leybourne
+5,Ted Sussum,4951412,ct,J O'Brien,,Imran X,,59,7,1,35,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,T Sussum
+6,Rishy M,5340615,not out,,,,,54,9,0,34,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,R M
+5,Raheel Khan,5402781,not out,,,,,53,5,1,52,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,1.0,R Khan
+1,Jon Lown,5902299,ct,K Malik,,J Todd,,52,6,1,78,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,J Lown
+3,Ganesh Jambulingam,6262102,not out,,,,,51,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,G Jambulingam
+3,Henry Sussum,4981247,retired not out,,,,,50,8,1,34,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,H Sussum
+5,Adam Ross,5442945,b,,,Jack Thompson,1790577,48,8,1,39,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,A Ross
+2,Geoffrey Sussum,4951380,st,K Malik,,Dan March,4733831,48,6,2,60,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,G Sussum
+5,Rob Leybourne,5363547,not out,,,,,48,6,0,75,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,1.0,R Leybourne
+4,Wayne Davies,4446838,b,,,A Ameer,6373509,45,8,0,45,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,0.0,W Davies
+5,Justin X,,not out,,,,,45,9,0,67,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,1.0,J X
+7,Jack Thompson,1790577,st,Adam Ross,5442945,Harry Chan,5190613,44,4,3,21,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,J Thompson
+3,C Fleming,,ct,Edward Pike,6676091,Freddie Ventham,5552337,43,6,0,53,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,C Fleming
+3,Geoffrey Sussum,4951380,b,,,Ganesh Jambulingam,6262102,42,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,0.0,G Sussum
+2,Guy Dunham,930287,b,,,Luke Bell,4399956,40,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,G Dunham
+2,Yusuf Khan,4940735,b,,,Matthew Pateman,13681,39,7,0,42,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,Y Khan
+6,David Kiddie,5582719,ct,Yusuf Khan,4940735,Ted Sussum,4951412,38,8,0,45,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,D Kiddie
+1,Ben Connolly,5894400,ct,Ted Sussum,4951412,Jonny Carpenter,5516200,38,7,0,60,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,B Connolly
+8,Matthew Pateman,13681,ct,Scott Peterson,5483704,Raheel Khan,5402781,37,6,0,69,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,M Pateman
+7,Rob Leybourne,5363547,run out,Unsure,,,,36,5,0,49,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,R Leybourne
+7,Ted Sussum,4951412,not out,,,,,35,5,1,18,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,T Sussum
+6,N Wherry,,b,,,Ted Sussum,4951412,35,3,3,23,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,N Wherry
+1,Edward Pike,6676091,ct,Unsure,,F Zakhel,,34,5,1,34,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,E Pike
+5,Ted Sussum,4951412,b,,,Unsure,,33,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,T Sussum
+10,Karthik X,,ct,Unsure,,Joe Yerrell,6044911,33,6,1,25,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,K X
+3,Yusuf Khan,4940735,ct,Unsure,,D Synge,3644650,32,7,0,26,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,Y Khan
+4,Harry Chan,5190613,b,,,Jack Thompson,1790577,32,4,1,33,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,H Chan
+6,Mark Schumann,15786,ct,Rob Leybourne,5363547,Joe Yerrell,6044911,32,4,0,34,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,M Schumann
+10,Chris Morris,3846114,not out,,,,,32,4,1,47,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,1.0,C Morris
+4,Henry Sussum,4981247,ct,Karthik X,,Karthik X,,31,3,2,16,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,H Sussum
+1,M Sisley,3644645,b,,,Edward Pike,6676091,31,3,2,31,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,M Sisley
+6,Ben Woodbridge,1686030,b,,,Unsure,,30,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,B Woodbridge
+6,Matt Gurney,663626,b,,,Joe Yerrell,6044911,29,4,0,22,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,M Gurney
+6,Jon Humphreys,4944051,b,,,Simon Atkins,5805057,29,5,0,38,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,J Humphreys
+9,Ted Sussum,4951412,lbw,,,Adam Gundy,5900485,29,3,0,39,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,T Sussum
+1,Luke Bell,4399956,ct,Unsure,,Alastair Gerrard,6240991,28,4,0,37,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,L Bell
+2,Jon Lown,5902299,ct,E Patel,6660032,K Patel,6682063,28,2,0,69,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,0.0,J Lown
+8,Craig Ottaway,5499462,b,,,Unsure,,27,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,C Ottaway
+7,James Dermont,5891019,st,Yusuf Khan,4940735,Joe Yerrell,6044911,27,5,0,43,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,J Dermont
+7,Ben Woodbridge,1686030,b,,,Aarav Dahiya,4933836,27,2,0,47,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,B Woodbridge
+1,Raheel Khan,5402781,ct,Matthew Pateman,13681,Matthew Pateman,13681,27,4,0,48,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,R Khan
+1,Andy Elledge,710270,ct,Alastair Rowe,4952492,Jon Humphreys,4944051,26,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,A Elledge
+4,Justin Hutchins,3570739,lbw,,,Richard Peareth,5335234,26,3,2,30,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,J Hutchins
+2,Muhammad Rafiq,6212842,ct,Sam Martin,4976658,Dave Gwynn-Costello,6227856,26,4,0,33,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,M Rafiq
+9,Scott Peterson,5483704,not out,,,,,25,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,1.0,S Peterson
+3,Max Lee,1809919,ct,Vinay Kandula,6674711,Ciaran Woodcock,5029510,25,2,0,44,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,M Lee
+6,Iain Stewart,5852381,ct,Unsure,,D Synge,3644650,23,3,0,34,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,I Stewart
+1,Viral Bhavsar,5974971,not out,,,,,22,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,V Bhavsar
+5,Sam Martin,4976658,not out,,,,,22,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,S Martin
+7,Geoffrey Sussum,4951380,b,,,N Wherry,,22,3,1,17,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,G Sussum
+7,Mohamed Asran Ameen,5104857,b,,,Viral Bhavsar,5974971,22,2,0,30,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,MA Ameen
+4,Max Lee,1809919,ct,Unsure,,David Kiddie,5582719,22,4,0,33,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,M Lee
+2,Tom Underwood,5534201,b,,,Craig Ottaway,5499462,20,3,0,29,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,T Underwood
+3,Divyansh Gurbani,6198845,b,,,James Lagdon,4576697,18,3,0,32,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,D Gurbani
+1,Raheel Khan,5402781,ct,Mark Schumann,15786,Richard Peareth,5335234,17,3,0,18,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,R Khan
+3,E Patel,6660032,b,,,Geoffrey Sussum,4951380,17,1,0,19,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,E Patel
+1,Robert Timms,41182,ct,Yusuf Khan,4940735,Craig Ottaway,5499462,17,2,0,42,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,R Timms
+2,Abhay Joshi,5480463,lbw,,,Sam Martin,4976658,16,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,0.0,A Joshi
+4,Warren Davies,5167053,b,,,Mohamed Asran Ameen,5104857,16,3,0,16,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,W Davies
+2,Yusuf Khan,4940735,b,,,Adam Gundy,5900485,16,1,1,23,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,Y Khan
+6,Simon Atkins,5805057,ct,Geoffrey Sussum,4951380,Jamie Valentine,4524064,16,3,0,37,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,S Atkins
+2,Wayne Davies,4446838,b,,,Dhaval Shah,6210157,15,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,0.0,W Davies
+10,Joe Yerrell,6044911,not out,,,,,15,2,0,16,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,1.0,J Yerrell
+9,D Synge,3644650,not out,,,,,15,3,0,16,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,1.0,D Synge
+7,J Fardos,,st,Alastair Rowe,4952492,Edward Pike,6676091,15,1,1,17,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,J Fardos
+5,Faiz Rahmi,6617296,retired not out,,,,,14,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,F Rahmi
+5,D De Keller,3644646,ct,Luke Bell,4399956,Paul Green,1101452,14,3,0,8,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,DD Keller
+7,Sanjeeb Kundu,6451834,run out,Unsure,,,,14,2,0,18,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,S Kundu
+8,Jamie Valentine,4524064,b,,,Imran X,,14,1,0,21,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,J Valentine
+4,P Babaar,5619297,ct,Ted Sussum,4951412,Joe Foster,6010486,14,1,0,24,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,P Babaar
+1,Raheel Khan,5402781,ct,Pratham Gowda,6193970,Pratham Gowda,6193970,13,3,0,11,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,R Khan
+8,Viral Bhavsar,5974971,run out,Mohamed nusly Mohamed nijam,6693580,,,13,0,0,19,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,V Bhavsar
+3,Aarav Dahiya,4933836,b,,,Scott Peterson,5483704,13,3,0,34,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,A Dahiya
+7,Jon Humphreys,4944051,ct,Faiz Rahmi,6617296,Stanley Babukutty,6210378,12,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,0.0,J Humphreys
+1,Yusuf Khan,4940735,ct,S Patel,6682067,A Ameer,6373509,12,0,2,12,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,0.0,Y Khan
+5,Davinder Singh,6641800,run out,Jamie Valentine,4524064,,,12,2,0,19,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,D Singh
+3,James Lagdon,4576697,b,,,Charlie Sherling,5795720,12,2,0,20,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,J Lagdon
+8,Tim Buckley,5824712,not out,,,,,12,3,0,22,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,1.0,T Buckley
+1,Mohammed Khayam,4992169,ct,Justin Hutchins,3570739,Viral Bhavsar,5974971,12,2,0,22,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,M Khayam
+9,Joe Yerrell,6044911,not out,,,,,11,2,0,8,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,1.0,J Yerrell
+2,A Rafiq,,st,Yusuf Khan,4940735,Kabir Rab,4943870,11,1,1,12,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,A Rafiq
+8,Ted Sussum,4951412,not out,,,,,11,1,0,14,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,1.0,T Sussum
+11,Jonny Carpenter,5516200,ct,Unsure,,Rob Atkin,3904276,11,1,0,17,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,J Carpenter
+5,Shiras Mohamed Mohamed Munas,5103391,ct,James Lagdon,4576697,Geoffrey Sussum,4951380,11,1,0,29,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,SMM Munas
+7,Jamie Valentine,4524064,not out,,,,,11,0,1,30,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,1.0,J Valentine
+6,Joe Foster,6010486,b,,,Dan March,4733831,10,0,1,6,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,J Foster
+1,P Withams,210163,ct,Unsure,,Joe Foster,6010486,10,2,0,21,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,P Withams
+2,Jon Lown,5902299,ct,Unsure,,J Fardos,,10,1,0,34,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,J Lown
+6,Matthew Arnold,6314397,b,,,James Lagdon,4576697,9,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,M Arnold
+5,K Patel,6682063,ct,Ted Sussum,4951412,Joe Foster,6010486,9,2,0,9,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,K Patel
+3,Max Lee,1809919,b,,,Jason Twist,5158958,9,0,0,35,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,M Lee
+10,Adam Gundy,5900485,ct,Chris Morris,3846114,Jonny Carpenter,5516200,8,2,0,9,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,A Gundy
+11,A Ameer,6373509,not out,,,,,8,1,0,9,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,1.0,A Ameer
+4,Uma Saraswat,5597955,ct,Unsure,,Jamie Valentine,4524064,8,2,0,11,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,U Saraswat
+2,Joe Wing,1802007,b,,,Ted Sussum,4951412,8,1,0,12,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,J Wing
+4,Wayne Davies,4446838,lbw,,,Alastair Gerrard,6240991,8,1,0,14,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,W Davies
+7,K Malik,,b,,,Jamie Valentine,4524064,8,1,0,15,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,K Malik
+5,Vandit Maram,4961350,ct,Yusuf Khan,4940735,Scott Peterson,5483704,8,1,0,18,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,V Maram
+4,Amit Dam,6669863,run out,James Lagdon,4576697,,,7,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,A Dam
+8,Harry Field,3909858,not out,,,,,7,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,1.0,H Field
+8,Sajid Mahmood,6280079,b,,,Viral Bhavsar,5974971,7,1,0,6,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,S Mahmood
+6,Rob Leybourne,5363547,b,,,Mark Schumann,15786,7,1,0,10,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,R Leybourne
+1,Justin Hutchins,3570739,ct,Kamil Pervaiz,5270890,Sajid Mahmood,6280079,7,1,0,12,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,J Hutchins
+9,Hunmbal Khan,6175670,b,,,Jamie Valentine,4524064,7,1,0,15,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,H Khan
+3,Raheel Khan,5402781,b,,,Ben Connolly,5894400,7,1,0,17,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,R Khan
+8,Asad Issa,4173227,lbw,,,Edward Pike,6676091,7,1,0,19,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,A Issa
+10,F Zakhel,,not out,,,,,6,0,1,1,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,1.0,F Zakhel
+8,Dan March,4733831,b,,,Paul Green,1101452,6,1,0,6,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,D March
+10,John Hirst,5347249,b,,,Paul Green,1101452,6,1,0,7,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,J Hirst
+11,Scot Crouch,852198,not out,,,,,6,0,0,9,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,1.0,S Crouch
+9,Jason Twist,5158958,ct,Ben Woodbridge,1686030,Raheel Khan,5402781,6,1,0,10,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,J Twist
+3,Vaibhav X,,ct,Joe Foster,6010486,Joe Foster,6010486,6,1,0,10,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,V X
+4,Ted Sussum,4951412,ct,Unsure,,F Zakhel,,6,1,0,11,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,0.0,T Sussum
+8,Sahil X,,b,,,Ted Sussum,4951412,6,1,0,15,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,S X
+1,M Price,,run out,Ted Sussum,4951412,,,6,0,0,23,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,M Price
+4,Mohamed nusly Mohamed nijam,6693580,b,,,Jon Humphreys,4944051,6,1,0,23,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,MnM nijam
+3,Stuart Lang,5779730,ct,Wayne Davies,4446838,Viral Bhavsar,5974971,5,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,S Lang
+10,Kamil Pervaiz,5270890,not out,,,,,5,1,0,2,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,1.0,K Pervaiz
+8,Alastair Rowe,4952492,not out,,,,,5,1,0,4,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,1.0,A Rowe
+8,Alastair Rowe,4952492,not out,,,,,5,1,0,5,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,1.0,A Rowe
+9,Chris Morris,3846114,ct,Richard Peareth,5335234,Thomas Broughton,6595168,5,1,0,6,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,C Morris
+5,Raheel Khan,5402781,ct,A Ameer,6373509,N Afsar,5619299,5,1,0,6,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,0.0,R Khan
+10,S Patel,6682067,ct,Wayne Davies,4446838,Raheel Khan,5402781,5,1,0,6,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,S Patel
+1,James Clarke,4096814,b,,,Luke Bell,4399956,5,1,0,15,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,J Clarke
+7,Iain Martin,5146796,ct,Wayne Davies,4446838,Jamie Valentine,4524064,5,1,0,29,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,I Martin
+10,Charlie Ward,4371511,not out,,,,,5,0,0,40,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,1.0,C Ward
+10,Kabir Rab,4943870,ct,Rishy M,5340615,I Hirst,,4,1,0,4,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,K Rab
+10,Alastair Gerrard,6240991,b,,,Jamie Valentine,4524064,4,1,0,4,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,A Gerrard
+11,J Savitt,,ct,Joe Foster,6010486,Joe Foster,6010486,4,0,0,7,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,J Savitt
+4,Michael Bodo,41185,ct,Yusuf Khan,4940735,Scott Peterson,5483704,4,1,0,7,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,M Bodo
+3,Peter Drury,6240861,lbw,,,Jon Humphreys,4944051,4,0,0,8,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,P Drury
+3,Max Lee,1809919,ct,Harry Chan,5190613,Richard Peareth,5335234,4,0,0,9,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,M Lee
+4,D Hayes,3644651,ct,Alastair Rowe,4952492,Edward Pike,6676091,4,1,0,9,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,D Hayes
+1,Craig Peterson,3858366,b,,,Adam Gundy,5900485,4,0,0,16,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,C Peterson
+4,Ryan Ansell,5801617,ct,Callum Wilson,5497375,Chris Morris,3846114,4,0,0,17,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,R Ansell
+7,Sam Martin,4976658,not out,,,,,4,0,0,34,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,1.0,S Martin
+7,Louis Stokhuyzen,5786358,b,,,James Lagdon,4576697,3,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,L Stokhuyzen
+7,Luke Bell,4399956,b,,,Unsure,,3,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,0.0,L Bell
+2,Alex Mahan,5597952,ct,Unsure,,Jamie Valentine,4524064,3,0,0,7,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,A Mahan
+9,J Todd,,not out,,,,,3,0,0,11,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,1.0,J Todd
+10,Leo Chan,5299621,ct,Chris Morris,3846114,Raheel Khan,5402781,3,0,0,13,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,L Chan
+1,Jonathan Bentvelzen,6234272,lbw,,,Jon Humphreys,4944051,2,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,0.0,J Bentvelzen
+8,Ted Sussum,4951412,ct,Adam Ross,5442945,Mark Schumann,15786,2,0,0,4,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,T Sussum
+11,Freddie Ventham,5552337,not out,,,,,2,0,0,4,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,1.0,F Ventham
+6,Sam Martin,4976658,b,,,Mohamed Asran Ameen,5104857,2,0,0,4,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,S Martin
+4,Lewis Thompson,1000955,b,,,Jason Twist,5158958,2,0,0,6,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,L Thompson
+7,Gabriel Maguire,5327163,ct,Yusuf Khan,4940735,Scott Peterson,5483704,2,0,0,8,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,G Maguire
+2,Russell Dermont,5626091,b,,,Ted Sussum,4951412,2,0,0,9,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,R Dermont
+8,Anirudh Menon,6595137,b,,,Joe Yerrell,6044911,2,0,0,9,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,A Menon
+8,Freddie Ventham,5552337,b,,,J Todd,,2,0,0,10,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,F Ventham
+4,Alastair Rowe,4952492,ct,Rishy M,5340615,Dan March,4733831,2,0,0,12,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,A Rowe
+3,Richard Peareth,5335234,ct,Yusuf Khan,4940735,Chris Morris,3846114,2,0,0,12,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,R Peareth
+2,Jon Lown,5902299,ct,Unsure,,Vaibhav X,,2,0,0,12,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,J Lown
+1,Ollie Ellis-Holmes,5924554,b,,,Ted Sussum,4951412,2,0,0,13,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,O Ellis-Holmes
+7,Andy Ensum,6468790,ct,Raheel Khan,5402781,Jonny Carpenter,5516200,2,0,0,24,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,A Ensum
+7,Abdul Firfire,6259793,not out,,,,,1,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,A Firfire
+9,Albert Stokhuyzen,5776279,not out,,,,,1,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,1.0,A Stokhuyzen
+10,Joe Yerrell,6044911,not out,,,,,1,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,1.0,J Yerrell
+2,R Jefferies,3982327,ct,Yusuf Khan,4940735,Luke Bell,4399956,1,0,0,2,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,0.0,R Jefferies
+7,H Patel,6682061,ct,Ted Sussum,4951412,Kabir Rab,4943870,1,0,0,2,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,H Patel
+6,Justin Hutchins,3570739,ct,Charlie Ward,4371511,Charlie Ward,4371511,1,0,0,3,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,0.0,J Hutchins
+6,Geoffrey Sussum,4951380,lbw,,,Uma Saraswat,5597955,1,0,0,3,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,G Sussum
+5,Alex Jackson,6057697,b,,,M Price,,1,0,0,4,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,A Jackson
+9,Ross Davies,6439833,hit wicket,,,Kamil Pervaiz,5270890,1,0,0,5,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,R Davies
+10,Simba Mika,4744607,b,,,Sajid Mahmood,6280079,1,0,0,6,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,S Mika
+2,Geoffrey Sussum,4951380,b,,,Charlie Sherling,5795720,1,0,0,9,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,G Sussum
+5,Lewis Thompson,1000955,ct,Unsure,,David Kiddie,5582719,1,0,0,10,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,L Thompson
+9,Thomas Broughton,6595168,ct,Rob Leybourne,5363547,Raheel Khan,5402781,1,0,0,11,Ickleford CC - 2nd XI,58647,Ley Hill CC - 1st XI,54824,2,6803474,0.0,T Broughton
+6,Callum Wilson,5497375,lbw,,,Ben Connolly,5894400,1,0,0,11,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,C Wilson
+6,Imran X,,ct,Unsure,,Jamie Valentine,4524064,1,0,0,12,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,I X
+12,J Todd,6300292,did not bat,,,,,0,0,0,0,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,1.0,J Todd
+4,Kabir Rab,4943870,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,K Rab
+6,Alastair Rowe,4952492,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,A Rowe
+8,Dave Gwynn-Costello,6227856,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,D Gwynn-Costello
+9,Stuart Maddock,4299349,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,"Northwood Town CC, Middlesex - 4th XI",277347,1,6804656,1.0,S Maddock
+4,Dhaval Shah,6210157,did not bat,,,,,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,D Shah
+6,Vishal Sadhwani,6648764,b,,,Viral Bhavsar,5974971,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,0.0,V Sadhwani
+8,Stanley Babukutty,6210378,did not bat,,,,,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,S Babukutty
+9,Deepak Amriwala,6605768,did not bat,,,,,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,D Amriwala
+10,Jaysal Patel,6251459,did not bat,,,,,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,J Patel
+11,Panash Vyas,6251557,did not bat,,,,,0,0,0,0,"Northwood Town CC, Middlesex - 4th XI",277347,Ley Hill CC - 2nd XI,119465,2,6804656,1.0,P Vyas
+9,Craig Ottaway,5499462,did not bat,,,,,0,0,0,0,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,1.0,C Ottaway
+10,Scott Peterson,5483704,did not bat,,,,,0,0,0,0,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,1.0,S Peterson
+11,Joe Yerrell,6044911,did not bat,,,,,0,0,0,0,Ley Hill CC - 1st XI,54824,Flitwick CC - 3rd XI,20669,2,6803476,1.0,J Yerrell
+9,Toby Webster,5100360,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,1.0,T Webster
+10,Dave Gwynn-Costello,6227856,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,1.0,D Gwynn-Costello
+11,Viral Bhavsar,5974971,did not bat,,,,,0,0,0,0,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,1.0,V Bhavsar
+5,Chris Arnold,5586337,ct,Luke Bell,4399956,James Lagdon,4576697,0,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,0.0,C Arnold
+10,Unsure,,did not bat,,,,,0,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,1.0,Unsure
+11,Unsure,,did not bat,,,,,0,0,0,0,Harpenden CC - 6th XI,116317,Ley Hill CC - 2nd XI,119465,1,6804665,1.0,Unsure
+9,Freddie Ventham,5552337,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,1.0,F Ventham
+10,Luke Bell,4399956,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,1.0,L Bell
+11,Paul Green,1101452,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Chelsea Nomads CC - 1st XI,196012,1,7074454,1.0,P Green
+11,Asad Javeed,5128485,did not bat,,,,,0,0,0,0,Chelsea Nomads CC - 1st XI,196012,Ley Hill CC - Sunday 1st XI,216373,2,7074454,1.0,A Javeed
+11,Freddie Ventham,5552337,did not bat,,,,,0,0,0,0,Ley Hill CC - 1st XI,54824,Shenley Village CC - 3rd XI,66192,1,6803489,1.0,F Ventham
+1,William Poynton,6004465,ct,Yusuf Khan,4940735,Craig Ottaway,5499462,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,W Poynton
+2,Vinay Kandula,6674711,ct,Luke Bell,4399956,Scott Peterson,5483704,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,V Kandula
+3,Ahren Dodhia,5433704,ct,Raheel Khan,5402781,Craig Ottaway,5499462,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,A Dodhia
+4,Jaymin Borkhatria,3727759,b,,,Craig Ottaway,5499462,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,J Borkhatria
+5,Chetan Borkhatria,1766307,b,,,Scott Peterson,5483704,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,C Borkhatria
+6,Ben Caplan,6233367,b,,,Scott Peterson,5483704,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,B Caplan
+7,Ciaran Woodcock,5029510,not out,,,,,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,1.0,C Woodcock
+8,Oliver Andrews,451346,ct,Raheel Khan,5402781,Scott Peterson,5483704,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,O Andrews
+9,Arkansh Pandey,5789317,ct,Max Lee,1809919,Craig Ottaway,5499462,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,A Pandey
+10,Michael Snow,4527056,ct,Rob Leybourne,5363547,Scott Peterson,5483704,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,M Snow
+11,Pratham Gowda,6193970,ct,Yusuf Khan,4940735,Joe Yerrell,6044911,0,0,0,0,Shenley Village CC - 3rd XI,66192,Ley Hill CC - 1st XI,54824,2,6803489,0.0,P Gowda
+11,Muhammad Ismail,5825353,did not bat,,,,,0,0,0,0,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,1.0,M Ismail
+8,Geoffrey Sussum,4951380,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,G Sussum
+9,Iain Stewart,5852381,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,I Stewart
+10,Kabir Rab,4943870,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,K Rab
+11,Joe Foster,6010486,did not bat,,,,,0,0,0,0,Ley Hill CC - Sunday 1st XI,216373,Goodwill Wanderers CC - Friendly XI,192284,1,7074455,1.0,J Foster
+3,Ted Sussum,4951412,lbw,,,M Price,,0,0,0,1,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,T Sussum
+11,J O'Brien,,lbw,,,Joe Yerrell,6044911,0,0,0,1,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,J O'Brien
+8,Ben Woodbridge,1686030,b,,,David Kiddie,5582719,0,0,0,1,Ley Hill CC - 1st XI,54824,Watton-at-Stone CC - 1st XI,159131,1,6803484,0.0,B Woodbridge
+6,- Dar,6660034,ct,Joe Foster,6010486,Joe Foster,6010486,0,0,0,1,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,- Dar
+9,Charlie Sussum,6227859,b,,,J Todd,,0,0,0,2,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,C Sussum
+3,A Todd,6421546,ct,Alastair Rowe,4952492,Kabir Rab,4943870,0,0,0,2,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,A Todd
+4,Charlie Sherling,5795720,b,,,Jon Humphreys,4944051,0,0,0,2,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,C Sherling
+10,Joe Foster,6010486,b,,,Imran X,,0,0,0,2,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,J Foster
+3,Bradley Williams,4548,b,,,Ted Sussum,4951412,0,0,0,2,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,B Williams
+9,Dhruv Singh,6176279,ct,Simba Mika,4744607,Viral Bhavsar,5974971,0,0,0,2,West Herts CC - 6th XI,302557,Ley Hill CC - 2nd XI,119465,1,6804671,0.0,D Singh
+1,N Afsar,5619299,b,,,Geoffrey Sussum,4951380,0,0,0,2,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,N Afsar
+2,I Dell,,b,,,Kabir Rab,4943870,0,0,0,3,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,I Dell
+6,I Hirst,,b,,,Charlie Sussum,6227859,0,0,0,3,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,I Hirst
+11,Freddie Ventham,5552337,ct,James Dermont,5891019,Scot Crouch,852198,0,0,0,3,Ley Hill CC - 1st XI,54824,Ickleford CC - 2nd XI,58647,1,6803474,0.0,F Ventham
+11,Ian Moxon-Booth,71507,b,,,Raheel Khan,5402781,0,0,0,3,Flitwick CC - 3rd XI,20669,Ley Hill CC - 1st XI,54824,1,6803476,0.0,I Moxon-Booth
+2,Woody Pinnock,6265298,ct,Alastair Rowe,4952492,Jon Humphreys,4944051,0,0,0,3,Berkhamsted CC - Saturday 4th XI,76555,Ley Hill CC - 2nd XI,119465,1,6804661,0.0,W Pinnock
+9,Atiksh X,,ct,Unsure,,Ted Sussum,4951412,0,0,0,3,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,A X
+5,Rob Atkin,3904276,b,,,Ted Sussum,4951412,0,0,0,3,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,R Atkin
+11,Callum O'Flynn,6188889,not out,,,,,0,0,0,3,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,1.0,C O'Flynn
+7,Iain Stewart,5852381,ct,Unsure,,Uma Saraswat,5597955,0,0,0,4,Ley Hill CC - Sunday 1st XI,216373,Chesham Bois CC - Friendly XI,39794,1,7074453,0.0,I Stewart
+9,S Patel,6373508,ct,Yusuf Khan,4940735,Joe Foster,6010486,0,0,0,4,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,S Patel
+5,J Hirst,,b,,,Ted Sussum,4951412,0,0,0,5,Soho Cricket Collective - Friendly XI,207493,Ley Hill CC - Sunday 1st XI,216373,2,7074449,0.0,J Hirst
+8,Tom Branigan,6188762,ct,Yusuf Khan,4940735,Craig Peterson,3858366,0,0,0,5,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,T Branigan
+11,Paul Green,1101452,b,,,I Hirst,,0,0,0,6,Ley Hill CC - Sunday 1st XI,216373,Soho Cricket Collective - Friendly XI,207493,1,7074449,0.0,P Green
+5,Jon Humphreys,4944051,ct,Mohammed Khayam,4992169,Muhammad Rafiq,6212842,0,0,0,6,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,J Humphreys
+7,Vinoth X,,ct,Unsure,,Jamie Valentine,4524064,0,0,0,7,Chesham Bois CC - Friendly XI,39794,Ley Hill CC - Sunday 1st XI,216373,2,7074453,0.0,V X
+3,Geoffrey Sussum,4951380,ct,Mohammed Khayam,4992169,Sajid Mahmood,6280079,0,0,0,8,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,0.0,G Sussum
+11,Dave Gwynn-Costello,6227856,not out,,,,,0,0,0,8,Ley Hill CC - 2nd XI,119465,West Herts CC - 6th XI,302557,2,6804671,1.0,D Gwynn-Costello
+8,Rikin Patel,,b,,,Kabir Rab,4943870,0,0,0,8,Goodwill Wanderers CC - Friendly XI,192284,Ley Hill CC - Sunday 1st XI,216373,2,7074455,0.0,R Patel
+5,Jamie Valentine,4524064,b,,,Davinder Singh,6641800,0,0,0,9,Ley Hill CC - 2nd XI,119465,Berkhamsted CC - Saturday 4th XI,76555,2,6804661,0.0,J Valentine
+9,David Bloomfield,5297643,st,Yusuf Khan,4940735,Jonny Carpenter,5516200,0,0,0,11,Watton-at-Stone CC - 1st XI,159131,Ley Hill CC - 1st XI,54824,2,6803484,0.0,D Bloomfield

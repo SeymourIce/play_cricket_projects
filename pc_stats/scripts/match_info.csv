@@ -1,0 +1,2 @@
+match_id,team_id,opposition_club_id,opposition_team_id,match_date,league_name,competition_name,competition_type,location,team_name,opposition_club_name,opposition_team_name,won_toss,batted_first,result,result_detail
+5544903,54824,1360,66365,01/07/2023,"Berkshire, Chilterns and Mid Bucks League",Championship,League,Home,1st XI,Braywood CC,1st XI,1,1,Lost,by 9 wickets

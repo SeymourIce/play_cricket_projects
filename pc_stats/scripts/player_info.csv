@@ -1,0 +1,12 @@
+position,player_name,player_id,captain,wicket_keeper,match_id,how_out,fielder_name,opposition_bowler_name,runs_scored,fours,sixes,balls,overs,maidens,runs_conceded,wides,wickets,no_balls
+1,Craig Peterson,3858366,false,false,5544903,lbw,,Mudassar Yasin,15,3,0,13,2,0,24,0,0,0
+2,Raheel Khan,5402781,false,false,5544903,ct,Yaser Ahmed,Arslan Yaseen,14,3,0,16,8,2,27,1,1,1
+3,Brad Norton,4252538,false,false,5544903,ct,Mudassar Yasin,Ahsan Malik,4,1,0,2,,,,,,
+4,Callum Wilson,5497375,true,false,5544903,ct,Asad Munawer,Ahsan Malik,36,6,0,39,,,,,,
+5,Yusuf Khan,4940735,false,true,5544903,ct,Asad Munawer,Mudassar Yasin,3,0,0,20,,,,,,
+6,Ted Sussum,4951412,false,false,5544903,b,,Mudassar Yasin,33,5,0,79,,,,,,
+7,Jamie Valentine,4524064,false,false,5544903,b,,Shiny Johnston,2,0,0,12,1.1,0,26,0,0,1
+8,Rob Jaycocks,5973076,false,false,5544903,ct,Asad Munawer,Haseeb Muhammad,10,1,0,31,,,,,,
+9,Scott Peterson,5483704,false,false,5544903,st,Asad Munawer,Shiny Johnston,0,0,0,2,6,0,43,2,0,0
+10,Douglas Petrie,1917305,false,false,5544903,not out,,,18,3,0,19,4,0,18,0,0,0
+11,Joe Yerrell,6044911,false,false,5544903,b,,Shiny Johnston,0,0,0,4,2,0,20,0,0,1
