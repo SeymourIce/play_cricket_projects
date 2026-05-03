@@ -2,7 +2,9 @@ import pandas as pd
 import requests
 import json
 from datetime import datetime
+from pathlib import Path
 from config import api_key, cricket_club_dict
+import sys
 
 class PlayCricketAPI:
     def __init__(self, api_key):
@@ -84,6 +86,7 @@ def extract_player_data(match_detail_response, match_summary, club_id):
         # Process innings data
         innings_list = match_detail.get('innings', [])
         
+        # Process batting data from the innings where our team batted
         for inning in innings_list:
             if inning.get('team_batting_id') == team_id:
                 # Get batting data
@@ -97,7 +100,6 @@ def extract_player_data(match_detail_response, match_summary, club_id):
                             'opposition_team_name': match_summary.get(f"{opp_flag}_team_name"),
                             'player_name': bat_record.get('batsman_name', ''),
                             'player_id': '',
-                            'position': 'Batter',
                             'runs_scored': safe_int(bat_record.get('runs', 0)),
                             'balls_faced': safe_int(bat_record.get('balls', 0)),
                             'fours': safe_int(bat_record.get('fours', 0)),
@@ -112,128 +114,246 @@ def extract_player_data(match_detail_response, match_summary, club_id):
                             'no_balls': 0
                         }
                         players_data.append(player_data)
-                
-                # Get bowling data
-                if 'bowl' in inning:
-                    for bowl_record in inning.get('bowl', []):
-                        # Find if this bowler already exists in players_data
-                        bowler_name = bowl_record.get('bowler_name', '')
-                        existing_player = None
-                        for p in players_data:
-                            if p['player_name'] == bowler_name:
-                                existing_player = p
-                                break
-                        
-                        if existing_player:
-                            # Update existing player with bowling data
-                            existing_player.update({
-                                'overs': safe_float(bowl_record.get('overs', 0)),
-                                'maidens': safe_int(bowl_record.get('maidens', 0)),
-                                'runs_conceded': safe_int(bowl_record.get('runs', 0)),
-                                'wickets': safe_int(bowl_record.get('wickets', 0)),
-                                'wides': safe_int(bowl_record.get('wides', 0)),
-                                'no_balls': safe_int(bowl_record.get('no_balls', 0))
-                            })
-                        else:
-                            # Create new player entry for bowler
-                            player_data = {
-                                'match_id': match_summary.get('id'),
-                                'season': 2026,
-                                'match_date': match_summary.get('match_date'),
-                                'team_name': match_summary.get(f"{ha_flag}_team_name"),
-                                'opposition_team_name': match_summary.get(f"{opp_flag}_team_name"),
-                                'player_name': bowler_name,
-                                'player_id': '',
-                                'position': 'Bowler',
-                                'runs_scored': 0,
-                                'balls_faced': 0,
-                                'fours': 0,
-                                'sixes': 0,
-                                'how_out': '',
-                                'batting_position': '',
-                                'overs': safe_float(bowl_record.get('overs', 0)),
-                                'maidens': safe_int(bowl_record.get('maidens', 0)),
-                                'runs_conceded': safe_int(bowl_record.get('runs', 0)),
-                                'wickets': safe_int(bowl_record.get('wickets', 0)),
-                                'wides': safe_int(bowl_record.get('wides', 0)),
-                                'no_balls': safe_int(bowl_record.get('no_balls', 0))
-                            }
-                            players_data.append(player_data)
+        
+        # Process bowling data from the innings where opposition batted (and our team bowled)
+        for inning in innings_list:
+            if inning.get('team_batting_id') != team_id and 'bowl' in inning:
+                # Get bowling data from the opposing team's innings
+                for bowl_record in inning.get('bowl', []):
+                    # Find if this bowler already exists in players_data
+                    bowler_name = bowl_record.get('bowler_name', '')
+                    existing_player = None
+                    for p in players_data:
+                        if p['player_name'] == bowler_name:
+                            existing_player = p
+                            break
+                    
+                    if existing_player:
+                        # Update existing player with bowling data
+                        existing_player.update({
+                            'overs': safe_float(bowl_record.get('overs', 0)),
+                            'maidens': safe_int(bowl_record.get('maidens', 0)),
+                            'runs_conceded': safe_int(bowl_record.get('runs', 0)),
+                            'wickets': safe_int(bowl_record.get('wickets', 0)),
+                            'wides': safe_int(bowl_record.get('wides', 0)),
+                            'no_balls': safe_int(bowl_record.get('no_balls', 0))
+                        })
+                    else:
+                        # Create new player entry for bowler
+                        player_data = {
+                            'match_id': match_summary.get('id'),
+                            'season': 2026,
+                            'match_date': match_summary.get('match_date'),
+                            'team_name': match_summary.get(f"{ha_flag}_team_name"),
+                            'opposition_team_name': match_summary.get(f"{opp_flag}_team_name"),
+                            'player_name': bowler_name,
+                            'player_id': '',
+                            'runs_scored': 0,
+                            'balls_faced': 0,
+                            'fours': 0,
+                            'sixes': 0,
+                            'how_out': '',
+                            'batting_position': '',
+                            'overs': safe_float(bowl_record.get('overs', 0)),
+                            'maidens': safe_int(bowl_record.get('maidens', 0)),
+                            'runs_conceded': safe_int(bowl_record.get('runs', 0)),
+                            'wickets': safe_int(bowl_record.get('wickets', 0)),
+                            'wides': safe_int(bowl_record.get('wides', 0)),
+                            'no_balls': safe_int(bowl_record.get('no_balls', 0))
+                        }
+                        players_data.append(player_data)
     except (KeyError, ValueError, TypeError) as e:
         print(f"Error extracting player data: {e}")
 
     return players_data
 
+def get_metadata_file(club_name):
+    """Get the path to the metadata file for storing last run date"""
+    return Path(__file__).parent.parent / 'data' / f".{club_name.lower().replace(' ', '_')}_metadata.json"
+
+def load_last_run_date(club_name):
+    """Load the last run date from metadata file"""
+    metadata_file = get_metadata_file(club_name)
+    if metadata_file.exists():
+        try:
+            with open(metadata_file, 'r') as f:
+                data = json.load(f)
+                last_run = data.get('last_run_date')
+                if last_run:
+                    return datetime.fromisoformat(last_run)
+        except (json.JSONDecodeError, ValueError):
+            pass
+    return None
+
+def save_last_run_date(club_name):
+    """Save the current run date to metadata file"""
+    metadata_file = get_metadata_file(club_name)
+    metadata_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(metadata_file, 'w') as f:
+        json.dump({'last_run_date': datetime.now().isoformat()}, f)
+
+def parse_date(date_str):
+    """Parse date string from API response"""
+    if not date_str:
+        return None
+    try:
+        # Try common date formats
+        for fmt in ['%Y-%m-%d %H:%M:%S', '%Y-%m-%dT%H:%M:%S', '%d/%m/%Y', '%Y-%m-%d']:
+            try:
+                return datetime.strptime(date_str, fmt)
+            except ValueError:
+                continue
+    except (ValueError, TypeError):
+        pass
+    return None
+
+def filter_matches_by_date(matches, last_run_date):
+    """Filter matches to only include those updated since last run"""
+    if not last_run_date:
+        return matches
+    
+    filtered_matches = []
+    for match in matches:
+        updated_date_str = match.get('updated_date') or match.get('match_date')
+        if updated_date_str:
+            updated_date = parse_date(updated_date_str)
+            if updated_date and updated_date > last_run_date:
+                filtered_matches.append(match)
+        else:
+            # If no date info, include it to be safe
+            filtered_matches.append(match)
+    
+    return filtered_matches
+
+def get_csv_output_path(club_name, current_season):
+    """Get the path for the CSV output file"""
+    return Path(__file__).parent.parent / 'data' / club_name.lower().replace(' ', '_') / str(current_season) / 'player_data' / f"{club_name.lower().replace(' ', '_')}_{current_season}_player_data.csv"
+
+def load_existing_player_data(csv_path):
+    """Load existing player data from CSV"""
+    if csv_path.exists():
+        return pd.read_csv(csv_path)
+    return pd.DataFrame()
+
+def update_player_data(df_existing, df_new):
+    """Update existing player data with new data, removing old entries for same matches"""
+    if df_existing.empty:
+        return df_new
+    
+    # Get match IDs from new data
+    new_match_ids = set(df_new['match_id'].unique())
+    
+    # Remove old entries for matches that are being updated
+    df_updated = df_existing[~df_existing['match_id'].isin(new_match_ids)]
+    
+    # Combine with new data
+    df_combined = pd.concat([df_updated, df_new], ignore_index=True)
+    
+    return df_combined
+
+def pull_player_data(club_id, season=None):
+    """Pull player data for a given club and season, updating incrementally based on last run date."""
+    if season is None:
+        season = datetime.now().year
+    
+    club_info = cricket_club_dict[club_id]
+    club_name = club_info['club_name']
+
+    # Load last run date
+    last_run_date = load_last_run_date(club_name)
+    print(f"Last run date: {last_run_date if last_run_date else 'Never'}")
+
+    # Team IDs mapping
+    team_names = club_info.get('team_names', [])
+    team_ids = []
+
+    # Initialize API
+    api = PlayCricketAPI(api_key)
+
+    if team_names:
+        teams_response = api.fetch_data('teams.json', {'site_id': club_id})
+        if teams_response and 'teams' in teams_response:
+            for team in teams_response['teams']:
+                if team.get('name') in team_names:
+                    team_ids.append(str(team.get('team_id')))
+        print(f"Found team IDs: {team_ids}")
+    else:
+        print("No team names found in cricket_club_dict")
+        team_ids = None
+
+    print(f"Fetching player data for {club_name} - {season} season...")
+
+    # Get match results for the season
+    all_match_results = api.get_results(club_id, team_ids, season)
+    print(f"Found {len(all_match_results)} total matches for {season}")
+
+    # Filter matches by last run date
+    match_results = filter_matches_by_date(all_match_results, last_run_date)
+    print(f"Found {len(match_results)} matches to process (updated since last run)")
+
+    all_players_data = []
+
+    # Process each match result
+    for match in match_results:
+        print(f"Processing match {match.get('id')} ({match.get('home_team_name')} vs {match.get('away_team_name')})...")
+        match_detail = api.get_match_detail(match.get('id'))
+        if match_detail:
+            players_data = extract_player_data(match_detail, match, club_id)
+            all_players_data.extend(players_data)
+
+    # Create DataFrame and update CSV if there's new data
+    if all_players_data:
+        df_new = pd.DataFrame(all_players_data)
+        
+        # Get CSV path and load existing data
+        csv_path = get_csv_output_path(club_name, season)
+        csv_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        df_existing = load_existing_player_data(csv_path)
+        
+        # Combine with existing data
+        df = update_player_data(df_existing, df_new)
+        
+        # Save to CSV
+        df.to_csv(csv_path, index=False)
+        print(f"Player data saved to {csv_path}")
+        print(f"Total player records: {len(df)}")
+        
+        # Update last run date
+        save_last_run_date(club_name)
+        print(f"Updated last run date")
+
+        # Basic analysis
+        print("\nSample of player data:")
+        print(df.head())
+
+        if 'player_name' in df.columns:
+            player_match_counts = df['player_name'].value_counts()
+            print(f"\nTop 10 players by appearances in {season}:")
+            print(player_match_counts.head(10))
+
+            # Summary stats
+            if 'runs_scored' in df.columns:
+                total_runs = df.groupby('player_name')['runs_scored'].sum().sort_values(ascending=False)
+                print(f"\nTop 10 run scorers in {season}:")
+                print(total_runs.head(10))
+
+            if 'wickets' in df.columns:
+                total_wickets = df.groupby('player_name')['wickets'].sum().sort_values(ascending=False)
+                print(f"\nTop 10 wicket takers in {season}:")
+                print(total_wickets.head(10))
+
+        return csv_path  # Return the path to the updated CSV
+    else:
+        print("No new player data found to process.")
+        return None
+
 # Main execution
-current_season = datetime.now().year
-club_id = '3931'
-club_info = cricket_club_dict[club_id]
-club_name = club_info['club_name']
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python pull_current_season_player_data.py <club_id> [season]")
+        sys.exit(1)
 
-# Team IDs mapping (you may need to update these)
-# Fetch team IDs from API based on team names in cricket_club_dict
-team_names = club_info.get('team_names', [])
-team_ids = []
-
-if team_names:
-    teams_response = api.fetch_data('teams.json', {'site_id': club_id})
-    if teams_response and 'teams' in teams_response:
-        for team in teams_response['teams']:
-            if team.get('name') in team_names:
-                team_ids.append(str(team.get('team_id')))
-    print(f"Found team IDs: {team_ids}")
-else:
-    print("No team names found in cricket_club_dict")
-    team_ids = None
-
-# Initialize API
-api = PlayCricketAPI(api_key)
-
-print(f"Fetching player data for {club_name} - {current_season} season...")
-
-# Get match results for current season
-match_results = api.get_results(club_id, team_ids, current_season)
-print(f"Found {len(match_results)} matches for {current_season}")
-
-all_players_data = []
-
-# Process each match result
-for match in match_results:
-    print(f"Processing match {match.get('id')} ({match.get('home_team_name')} vs {match.get('away_team_name')})...")
-    match_detail = api.get_match_detail(match.get('id'))
-    if match_detail:
-        players_data = extract_player_data(match_detail, match, club_id)
-        all_players_data.extend(players_data)
-
-# Create DataFrame
-if all_players_data:
-    df = pd.DataFrame(all_players_data)
-
-    # Save to CSV
-    output_file = f"{club_name.lower().replace(' ', '_')}_{current_season}_player_data.csv"
-    df.to_csv(output_file, index=False)
-    print(f"Player data saved to {output_file}")
-    print(f"Total player records: {len(df)}")
-
-    # Basic analysis
-    print("\nSample of player data:")
-    print(df.head())
-
-    if 'player_name' in df.columns:
-        player_match_counts = df['player_name'].value_counts()
-        print(f"\nTop 10 players by appearances in {current_season}:")
-        print(player_match_counts.head(10))
-
-        # Summary stats
-        if 'runs_scored' in df.columns:
-            total_runs = df.groupby('player_name')['runs_scored'].sum().sort_values(ascending=False)
-            print(f"\nTop 10 run scorers in {current_season}:")
-            print(total_runs.head(10))
-
-        if 'wickets' in df.columns:
-            total_wickets = df.groupby('player_name')['wickets'].sum().sort_values(ascending=False)
-            print(f"\nTop 10 wicket takers in {current_season}:")
-            print(total_wickets.head(10))
-
-else:
-    print("No player data found for the current season.")
+    club_id = sys.argv[1]
+    season = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    pull_player_data(club_id, season)

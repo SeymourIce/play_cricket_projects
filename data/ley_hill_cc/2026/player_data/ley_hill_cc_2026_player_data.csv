@@ -1,48 +1,42 @@
 match_id,season,match_date,team_name,opposition_team_name,player_name,player_id,position,runs_scored,balls_faced,fours,sixes,how_out,batting_position,overs,maidens,runs_conceded,wickets,wides,no_balls
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Yusuf Khan,,Batter,88,73,13,2,ct,1,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,Batter,75,75,11,2,b,2,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Callum Wilson,,Batter,102,55,16,3,retired not out,3,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,James Lagdon,,Batter,0,5,0,0,ct,4,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Henry Sussum,,Batter,7,8,1,0,run out,5,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Kevin Leathers,,Batter,10,10,2,0,b,6,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Alex Jackson,,Batter,11,15,2,0,not out,7,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Freddie Ventham,,Batter,1,2,0,0,not out,8,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Dave Gwynn-Costello,,Batter,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Kabir Rab,,Batter,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Paul Green,,Batter,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Malik,,Bowler,0,0,0,0,,,7.0,0,41,1,1,2
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Al,,Bowler,0,0,0,0,,,6.0,0,43,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Phil,,Bowler,0,0,0,0,,,5.0,0,26,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Dan,,Bowler,0,0,0,0,,,3.0,0,38,0,1,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Mike,,Bowler,0,0,0,0,,,6.0,0,45,0,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Jeremy,,Bowler,0,0,0,0,,,5.0,0,42,0,1,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Nakul,,Bowler,0,0,0,0,,,5.0,0,36,3,0,0
-7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Alex,,Bowler,0,0,0,0,,,3.0,0,30,0,1,1
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Jon Lown,,Batter,41,68,6,2,st,1,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Yusuf Khan,,Batter,100,85,18,1,retired not out,2,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Geoffrey Sussum,,Batter,66,36,9,4,b,3,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Alastair Rowe,,Batter,20,24,2,1,ct,4,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Iain Stewart,,Batter,1,1,0,0,not out,5,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Kevin Leathers,,Batter,0,0,0,0,not out,6,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Freddie Ventham,,Batter,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Dave Gwynn-Costello,,Batter,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Kabir Rab,,Batter,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Joe Foster,,Batter,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Paul Green,,Batter,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,T Dawes,,Bowler,0,0,0,0,,,7.0,3,9,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,J Robinson,,Bowler,0,0,0,0,,,5.0,0,44,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,R Newman,,Bowler,0,0,0,0,,,5.0,0,39,0,4,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Gavin Taylor,,Bowler,0,0,0,0,,,7.0,0,37,1,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,B Pearce,,Bowler,0,0,0,0,,,7.0,0,50,0,0,0
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,A Sadler,,Bowler,0,0,0,0,,,2.0,0,34,0,2,3
-7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Alan Manley,,Bowler,0,0,0,0,,,2.0,0,26,2,0,2
-7383296,2026,02/05/2026,1st XI,Friendly XI,Callum Wilson,,Batter,19,25,4,0,not out,1,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Yusuf Khan,,Batter,14,26,3,0,run out,2,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Raheel Khan,,Batter,6,16,0,0,not out,3,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Lewis Thompson,,Batter,0,0,0,0,did not bat,4,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Luke Bell,,Batter,0,0,0,0,did not bat,5,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Kabir Rab,,Batter,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Craig Ottaway,,Batter,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Joe Yerrell,,Batter,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Cara Duggan,,Bowler,0,0,0,0,,,6.0,1,18,0,0,0
-7383296,2026,02/05/2026,1st XI,Friendly XI,Jason Talmer,,Bowler,0,0,0,0,,,5.1,2,22,0,1,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Yusuf Khan,,,88,73,13,2,ct,1,0.0,0,0,0,0,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,,75,75,11,2,b,2,0.0,0,0,0,0,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Callum Wilson,,,102,55,16,3,retired not out,3,3.0,0,13,2,1,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,James Lagdon,,,0,5,0,0,ct,4,3.0,0,19,0,1,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Henry Sussum,,,7,8,1,0,run out,5,3.0,1,4,2,1,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Kevin Leathers,,,10,10,2,0,b,6,0.0,0,0,0,0,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Alex Jackson,,,11,15,2,0,not out,7,4.0,0,23,1,7,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Freddie Ventham,,,1,2,0,0,not out,8,7.0,1,31,1,7,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Dave Gwynn-Costello,,,0,0,0,0,did not bat,9,6.0,1,32,0,7,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Kabir Rab,,,0,0,0,0,did not bat,10,6.0,0,44,0,3,0
+7578185,2026,19/04/2026,Sunday 1st XI,Friendly XI,Paul Green,,,0,0,0,0,did not bat,11,8.0,0,52,1,3,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Jon Lown,,,41,68,6,2,st,1,0.0,0,0,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Yusuf Khan,,,100,85,18,1,retired not out,2,3.0,0,23,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Geoffrey Sussum,,,66,36,9,4,b,3,5.1,0,26,0,1,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Alastair Rowe,,,20,24,2,1,ct,4,0.0,0,0,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Iain Stewart,,,1,1,0,0,not out,5,0.0,0,0,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Kevin Leathers,,,0,0,0,0,not out,6,3.0,0,26,1,1,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Freddie Ventham,,,0,0,0,0,did not bat,7,4.0,0,40,0,3,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Dave Gwynn-Costello,,,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Kabir Rab,,,0,0,0,0,did not bat,9,7.0,1,43,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Joe Foster,,,0,0,0,0,did not bat,10,7.0,0,23,0,0,0
+7578186,2026,26/04/2026,Sunday 1st XI,1st XI,Paul Green,,,0,0,0,0,did not bat,11,3.0,0,23,0,1,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Callum Wilson,,,19,25,4,0,not out,1,2.4,0,10,2,0,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Yusuf Khan,,,14,26,3,0,run out,2,0.0,0,0,0,0,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Raheel Khan,,,6,16,0,0,not out,3,8.0,1,35,1,2,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Lewis Thompson,,,0,0,0,0,did not bat,4,4.0,0,42,1,0,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Luke Bell,,,0,0,0,0,did not bat,5,4.0,1,19,0,1,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Kabir Rab,,,0,0,0,0,did not bat,6,5.0,0,39,1,3,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Craig Ottaway,,,0,0,0,0,did not bat,7,8.0,3,23,0,0,0
+7383296,2026,02/05/2026,1st XI,Friendly XI,Joe Yerrell,,,0,0,0,0,did not bat,8,8.0,0,53,2,1,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Jon Lown,,,14,44,0,1,st,1,0.0,0,0,0,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Chris Morris,,,40,63,8,0,b,2,7.0,1,30,1,2,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,,0,7,0,0,ct,3,5.0,0,47,2,3,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Kevin Leathers,,,4,11,0,0,lbw,4,0.0,0,0,0,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Yusuf Khan,,,82,55,10,3,b,5,0.0,0,0,0,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Iain Stewart,,,3,6,0,0,b,6,0.0,0,0,0,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Alastair Rowe,,,7,11,0,0,ct,7,0.0,0,0,0,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Joe Foster,,,0,4,0,0,run out,8,7.0,0,44,1,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Freddie Ventham,,,4,4,1,0,not out,9,5.0,0,38,2,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Kabir Rab,,,0,5,0,0,b,10,7.0,1,35,1,0,0
+7578187,2026,03/05/2026,Sunday 1st XI,Friendly XI,Paul Green,,,0,0,0,0,did not bat,11,4.0,0,33,1,3,0
