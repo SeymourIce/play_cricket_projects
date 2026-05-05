@@ -179,6 +179,42 @@ def write_metadata_file(metadata_file, data):
         f.write('\n')
 
 
+def get_team_ids_from_response(teams_response, team_names, club_id):
+    """Extract matching team IDs for the configured club and team names."""
+    if not teams_response or 'teams' not in teams_response:
+        return []
+
+    team_ids = []
+    for team in teams_response['teams']:
+        if team.get('site_id') != int(club_id):
+            continue
+
+        candidate_names = {
+            team.get('team_name', ''),
+            team.get('other_team_name', ''),
+            team.get('nickname', ''),
+            team.get('name', '')
+        }
+        if any(name in team_names for name in candidate_names if name):
+            team_ids.append(str(team.get('id') or team.get('team_id')))
+
+    return list(dict.fromkeys(team_ids))
+
+
+def format_match_label(match, club_id):
+    """Return a display label using the input club's team name versus the opponent."""
+    if str(match.get('home_club_id')) == str(club_id):
+        club_team_name = match.get('home_team_name')
+        opponent_club_name = match.get('away_club_name')
+        opponent_team_name = match.get('away_team_name')
+    else:
+        club_team_name = match.get('away_team_name')
+        opponent_club_name = match.get('home_club_name')
+        opponent_team_name = match.get('home_team_name')
+
+    return f"Processing match {match.get('id')} ({club_team_name} vs {opponent_club_name} {opponent_team_name})..."
+
+
 def load_last_run_date(club_name, season, team_name=None):
     """Load the last run date from metadata file for a specific season and team"""
     metadata_file = get_metadata_file(club_name)
@@ -327,19 +363,7 @@ def pull_player_data(club_id, season=None):
 
     if team_names:
         teams_response = api.fetch_data('teams.json', {'site_id': club_id})
-        if teams_response and 'teams' in teams_response:
-            for team in teams_response['teams']:
-                if team.get('site_id') != int(club_id):
-                    continue
-                candidate_names = {
-                    team.get('team_name', ''),
-                    team.get('other_team_name', ''),
-                    team.get('nickname', ''),
-                    team.get('name', '')
-                }
-                if any(name in team_names for name in candidate_names if name):
-                    team_ids.append(str(team.get('id') or team.get('team_id')))
-        team_ids = list(dict.fromkeys(team_ids))
+        team_ids = get_team_ids_from_response(teams_response, team_names, club_id)
         print(f"Found team IDs: {team_ids}")
         if not team_ids:
             print('Warning: no matching team IDs found for configured teams; this will return 0 matches.')
