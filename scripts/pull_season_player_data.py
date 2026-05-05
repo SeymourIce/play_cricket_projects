@@ -43,7 +43,7 @@ class PlayCricketAPI:
         match_params = {'match_id': match_id}
         return self.fetch_data('match_detail.json', match_params)
 
-def extract_player_data(match_detail_response, match_summary, club_id):
+def extract_player_data(match_detail_response, match_summary, club_id, season):
     """Extract player data from match detail JSON"""
     players_data = []
 
@@ -94,7 +94,7 @@ def extract_player_data(match_detail_response, match_summary, club_id):
                     for bat_record in inning.get('bat', []):
                         player_data = {
                             'match_id': match_summary.get('id'),
-                            'season': 2026,
+                            'season': season,
                             'match_date': match_summary.get('match_date'),
                             'team_name': match_summary.get(f"{ha_flag}_team_name"),
                             'opposition_team_name': match_summary.get(f"{opp_flag}_team_name"),
@@ -142,7 +142,7 @@ def extract_player_data(match_detail_response, match_summary, club_id):
                         # Create new player entry for bowler
                         player_data = {
                             'match_id': match_summary.get('id'),
-                            'season': 2026,
+                            'season': season,
                             'match_date': match_summary.get('match_date'),
                             'team_name': match_summary.get(f"{ha_flag}_team_name"),
                             'opposition_team_name': match_summary.get(f"{opp_flag}_team_name"),
@@ -171,26 +171,81 @@ def get_metadata_file(club_name):
     """Get the path to the metadata file for storing last run date"""
     return Path(__file__).parent.parent / 'data' / f".{club_name.lower().replace(' ', '_')}_metadata.json"
 
-def load_last_run_date(club_name):
-    """Load the last run date from metadata file"""
+
+def write_metadata_file(metadata_file, data):
+    """Write metadata file using pretty JSON formatting."""
+    with open(metadata_file, 'w') as f:
+        json.dump(data, f, indent=2, sort_keys=True)
+        f.write('\n')
+
+
+def load_last_run_date(club_name, season, team_name=None):
+    """Load the last run date from metadata file for a specific season and team"""
     metadata_file = get_metadata_file(club_name)
     if metadata_file.exists():
         try:
             with open(metadata_file, 'r') as f:
                 data = json.load(f)
-                last_run = data.get('last_run_date')
-                if last_run:
-                    return datetime.fromisoformat(last_run)
+                # Check new format with teams/seasons dict
+                if 'teams' in data:
+                    if team_name and team_name in data['teams']:
+                        last_run = data['teams'][team_name].get(str(season))
+                        if last_run:
+                            return datetime.fromisoformat(last_run)
+                    else:
+                        # If no specific team, check all teams and return earliest (most conservative)
+                        earliest = None
+                        for team_data in data['teams'].values():
+                            if str(season) in team_data:
+                                last_run = team_data[str(season)]
+                                dt = datetime.fromisoformat(last_run)
+                                if earliest is None or dt < earliest:
+                                    earliest = dt
+                        if earliest:
+                            return earliest
+                # Fallback to old format for backward compatibility
+                elif 'seasons' in data:
+                    last_run = data['seasons'].get(str(season))
+                    if last_run:
+                        return datetime.fromisoformat(last_run)
+                elif season == datetime.now().year:
+                    last_run = data.get('last_run_date')
+                    if last_run:
+                        return datetime.fromisoformat(last_run)
         except (json.JSONDecodeError, ValueError):
             pass
     return None
 
-def save_last_run_date(club_name):
-    """Save the current run date to metadata file"""
+def save_last_run_date(club_name, season, team_names=None):
+    """Save the current run date to metadata file for a specific season and teams"""
     metadata_file = get_metadata_file(club_name)
     metadata_file.parent.mkdir(parents=True, exist_ok=True)
-    with open(metadata_file, 'w') as f:
-        json.dump({'last_run_date': datetime.now().isoformat()}, f)
+    
+    # Load existing data
+    existing_data = {}
+    if metadata_file.exists():
+        try:
+            with open(metadata_file, 'r') as f:
+                existing_data = json.load(f)
+        except (json.JSONDecodeError, ValueError):
+            pass
+    
+    # Ensure teams dict exists
+    if 'teams' not in existing_data:
+        existing_data['teams'] = {}
+    
+    # If no teams specified, use a default "all" entry
+    if not team_names:
+        team_names = ['all']
+    
+    # Update each team with current season's date
+    current_time = datetime.now().isoformat()
+    for team_name in team_names:
+        if team_name not in existing_data['teams']:
+            existing_data['teams'][team_name] = {}
+        existing_data['teams'][team_name][str(season)] = current_time
+    
+    write_metadata_file(metadata_file, existing_data)
 
 def parse_date(date_str):
     """Parse date string from API response"""
@@ -259,13 +314,13 @@ def pull_player_data(club_id, season=None):
     club_info = cricket_club_dict[club_id]
     club_name = club_info['club_name']
 
-    # Load last run date
-    last_run_date = load_last_run_date(club_name)
-    print(f"Last run date: {last_run_date if last_run_date else 'Never'}")
-
     # Team IDs mapping
     team_names = club_info.get('team_names', [])
     team_ids = []
+
+    # Load last run date for this season and teams
+    last_run_date = load_last_run_date(club_name, season, team_names[0] if team_names else None)
+    print(f"Last run date for {season} season ({', '.join(team_names) if team_names else 'all teams'}): {last_run_date if last_run_date else 'Never'}")
 
     # Initialize API
     api = PlayCricketAPI(api_key)
@@ -274,9 +329,20 @@ def pull_player_data(club_id, season=None):
         teams_response = api.fetch_data('teams.json', {'site_id': club_id})
         if teams_response and 'teams' in teams_response:
             for team in teams_response['teams']:
-                if team.get('name') in team_names:
-                    team_ids.append(str(team.get('team_id')))
+                if team.get('site_id') != int(club_id):
+                    continue
+                candidate_names = {
+                    team.get('team_name', ''),
+                    team.get('other_team_name', ''),
+                    team.get('nickname', ''),
+                    team.get('name', '')
+                }
+                if any(name in team_names for name in candidate_names if name):
+                    team_ids.append(str(team.get('id') or team.get('team_id')))
+        team_ids = list(dict.fromkeys(team_ids))
         print(f"Found team IDs: {team_ids}")
+        if not team_ids:
+            print('Warning: no matching team IDs found for configured teams; this will return 0 matches.')
     else:
         print("No team names found in cricket_club_dict")
         team_ids = None
@@ -295,10 +361,19 @@ def pull_player_data(club_id, season=None):
 
     # Process each match result
     for match in match_results:
-        print(f"Processing match {match.get('id')} ({match.get('home_team_name')} vs {match.get('away_team_name')})...")
+        if str(match.get('home_club_id')) == str(club_id):
+            club_team_name = match.get('home_team_name')
+            opponent_club_name = match.get('away_club_name')
+            opponent_team_name = match.get('away_team_name')
+        else:
+            club_team_name = match.get('away_team_name')
+            opponent_club_name = match.get('home_club_name')
+            opponent_team_name = match.get('home_team_name')
+
+        print(f"Processing match {match.get('id')} ({club_team_name} vs {opponent_club_name} {opponent_team_name})...")
         match_detail = api.get_match_detail(match.get('id'))
         if match_detail:
-            players_data = extract_player_data(match_detail, match, club_id)
+            players_data = extract_player_data(match_detail, match, club_id, season)
             all_players_data.extend(players_data)
 
     # Create DataFrame and update CSV if there's new data
@@ -319,9 +394,9 @@ def pull_player_data(club_id, season=None):
         print(f"Player data saved to {csv_path}")
         print(f"Total player records: {len(df)}")
         
-        # Update last run date
-        save_last_run_date(club_name)
-        print(f"Updated last run date")
+        # Update last run date for this season and all processed teams
+        save_last_run_date(club_name, season, team_names if team_names else None)
+        print(f"Updated last run date for {season} season ({', '.join(team_names) if team_names else 'all teams'})")
 
         # Basic analysis
         print("\nSample of player data:")
@@ -351,7 +426,7 @@ def pull_player_data(club_id, season=None):
 # Main execution
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python pull_current_season_player_data.py <club_id> [season]")
+        print("Usage: python pull_season_player_data.py <club_id> [season]")
         sys.exit(1)
 
     club_id = sys.argv[1]

@@ -1,0 +1,652 @@
+match_id,season,match_date,team_name,opposition_team_name,player_name,player_id,runs_scored,balls_faced,fours,sixes,how_out,batting_position,overs,maidens,runs_conceded,wickets,wides,no_balls
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Jon Lown,,52,78,6,1,ct,1,0.0,0,0,0,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,48,60,6,2,st,2,0.0,0,0,0,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,0,1,0,0,lbw,3,4.0,0,6,1,1,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Alastair Rowe,,2,12,0,0,ct,4,0.0,0,0,0,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Alex Jackson,,1,4,0,0,b,5,3.0,0,39,1,1,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Joe Foster,,10,6,0,1,b,6,0.2,0,0,1,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Jamie Valentine,,11,30,0,1,not out,7,4.0,0,26,1,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,2,10,0,0,b,8,1.0,0,3,0,0,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Charlie Sussum,,0,2,0,0,b,9,3.0,0,15,1,0,1
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Kabir Rab,,4,4,1,0,ct,10,3.0,0,8,2,4,0
+7074449,2025,20/04/2025,Sunday 1st XI,Friendly XI,Paul Green,,0,6,0,0,b,11,3.0,0,19,2,1,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Jon Lown,,63,84,6,3,b,1,0.0,0,0,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Geoffrey Sussum,,24,18,4,1,b,2,2.0,0,25,0,2,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Raheel Khan,,1,10,0,0,b,3,5.5,0,46,2,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Kevin Leathers,,16,21,2,0,ct,4,0.0,0,0,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Rob Leybourne,,40,32,7,0,ct,5,7.0,0,50,0,7,2
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,James Lagdon,,27,17,5,0,ct,6,0.0,0,0,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Ted Sussum,,17,11,3,0,ct,7,7.0,4,10,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Sam Martin,,1,10,0,0,ct,8,0.0,0,0,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Dave Gwynn-Costello,,0,5,0,0,not out,9,7.0,2,24,3,5,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Charlie Sussum,,0,2,0,0,b,10,1.0,0,23,0,0,0
+7074450,2025,27/04/2025,Sunday 1st XI,1st XI,Paul Green,,1,1,0,0,not out,11,4.0,0,19,0,1,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Raheel Khan,,31,46,5,0,b,1,8.0,1,36,2,3,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Yusuf Khan,,124,86,12,8,not out,2,0.0,0,0,0,0,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Max Lee,,1,8,0,0,b,3,0.0,0,0,0,0,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Justin Hutchins,,15,29,2,0,not out,4,0.0,0,0,0,0,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,James Lagdon,,0,0,0,0,did not bat,5,2.0,0,18,0,1,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Rob Leybourne,,0,0,0,0,did not bat,6,4.0,0,23,0,2,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Ted Sussum,,0,0,0,0,did not bat,7,5.0,2,14,1,1,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Lewis Thompson,,0,0,0,0,did not bat,8,8.0,0,44,2,3,1
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Craig Ottaway,,0,0,0,0,did not bat,9,8.0,5,13,1,0,0
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,5.0,0,37,0,10,1
+6950824,2025,03/05/2025,1st XI,Sunday Friendly XI,Toby Webster,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Jon Lown,,43,100,4,1,ct,1,0.0,0,0,0,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,34,57,7,0,ct,2,0.0,0,0,0,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Rishy Morjaria,,18,17,1,2,ct,3,4.0,0,35,1,0,1
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Callum Wilson,,25,24,1,2,b,4,5.0,0,35,0,2,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Raheel Khan,,13,15,1,1,b,5,0.0,0,0,0,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,60,27,5,5,not out,6,0.3,0,0,1,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Sam Martin,,1,8,0,0,not out,7,6.0,0,17,4,4,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Scott Peterson,,0,0,0,0,did not bat,8,6.0,2,20,1,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,0,0,0,0,did not bat,9,8.0,4,13,0,2,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Alastair Rowe,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+7062026,2025,04/05/2025,Sunday 1st XI,Friendly XI,Joe Foster,,0,0,0,0,did not bat,11,5.0,0,16,1,1,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Raheel Khan,,17,18,3,0,ct,1,3.4,1,13,2,0,1
+6803474,2025,10/05/2025,1st XI,2nd XI,Yusuf Khan,,118,94,15,3,b,2,0.0,0,0,0,0,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Max Lee,,4,9,0,0,ct,3,0.0,0,0,0,0,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Justin Hutchins,,26,30,3,2,lbw,4,0.0,0,0,0,0,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Callum Wilson,,124,88,18,3,b,5,1.0,0,5,0,0,1
+6803474,2025,10/05/2025,1st XI,2nd XI,Rob Leybourne,,7,10,1,0,b,6,0.0,0,0,0,0,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Jack Thompson,,44,21,4,3,st,7,7.0,0,34,2,2,0
+6803474,2025,10/05/2025,1st XI,2nd XI,Ted Sussum,,2,4,0,0,ct,8,7.0,1,45,2,7,4
+6803474,2025,10/05/2025,1st XI,2nd XI,Chris Morris,,5,6,1,0,ct,9,7.0,0,41,1,1,1
+6803474,2025,10/05/2025,1st XI,2nd XI,Joe Yerrell,,15,16,2,0,not out,10,10.0,1,40,3,3,1
+6803474,2025,10/05/2025,1st XI,2nd XI,Freddie Ventham,,0,3,0,0,ct,11,0.0,0,0,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Viral Bhavsar,,22,0,0,0,not out,1,4.0,0,18,1,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Wayne Davies,,15,0,0,0,b,2,0.0,0,0,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Geoffrey Sussum,,42,0,0,0,b,3,8.0,1,36,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Kabir Rab,,0,0,0,0,did not bat,4,0.0,0,0,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Sam Martin,,22,0,0,0,not out,5,6.0,0,42,1,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Alastair Rowe,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Jon Humphreys,,12,0,0,0,ct,7,8.0,4,16,1,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,8,5.0,0,21,0,0,0
+6804656,2025,10/05/2025,2nd XI,4th XI,Stuart Maddock,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Jon Lown,,3,7,0,0,b,1,0.0,0,0,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Yusuf Khan,,46,43,8,0,run out,2,0.0,0,0,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,0,4,0,0,lbw,3,0.0,0,0,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Kevin Leathers,,5,17,0,0,b,4,0.0,0,0,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Raheel Khan,,77,58,11,2,ct,5,7.0,0,50,1,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,53,39,7,2,b,6,7.0,0,38,1,1,2
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,0,1,0,0,b,7,3.0,0,25,0,0,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Alastair Rowe,,0,5,0,0,lbw,8,5.0,0,49,0,4,2
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,17,19,3,0,ct,9,4.0,0,14,0,1,0
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,0,2,0,0,b,10,6.0,0,59,0,5,2
+7074452,2025,11/05/2025,Sunday 1st XI,Friendly XI,Paul Green,,0,1,0,0,not out,11,8.0,0,64,1,2,0
+7056836,2025,13/05/2025,1st XI,1st XI,Craig Peterson,,61,32,7,4,lbw,1,0.0,0,0,0,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Yusuf Khan,,55,31,6,1,ct,2,0.0,0,0,0,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Lewis Thompson,,37,20,2,2,st,3,4.0,0,29,2,9,1
+7056836,2025,13/05/2025,1st XI,1st XI,Callum Wilson,,31,23,3,1,st,4,0.0,0,0,0,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Rob Leybourne,,8,5,2,0,b,5,0.0,0,0,0,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Henry Sussum,,3,2,0,0,not out,6,2.0,0,24,1,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Max Lee,,1,1,0,0,not out,7,0.0,0,0,0,0,0
+7056836,2025,13/05/2025,1st XI,1st XI,Craig Ottaway,,0,0,0,0,did not bat,8,3.0,0,24,0,3,0
+7056836,2025,13/05/2025,1st XI,1st XI,Scott Peterson,,0,0,0,0,did not bat,9,4.0,0,29,3,13,0
+7056836,2025,13/05/2025,1st XI,1st XI,Jamie Valentine,,0,0,0,0,did not bat,10,1.5,0,8,2,6,0
+7056836,2025,13/05/2025,1st XI,1st XI,Jonny Carpenter,,0,0,0,0,did not bat,11,4.0,0,42,1,4,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Raheel Khan,,27,48,4,0,ct,1,6.4,0,9,3,3,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Yusuf Khan,,39,42,7,0,b,2,0.0,0,0,0,0,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Max Lee,,9,35,0,0,b,3,0.0,0,0,0,0,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Lewis Thompson,,2,6,0,0,b,4,5.0,0,22,0,11,1
+6803476,2025,17/05/2025,1st XI,3rd XI,Rob Leybourne,,48,75,6,0,not out,5,0.0,0,0,0,0,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Justin Hutchins,,1,3,0,0,ct,6,0.0,0,0,0,0,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Ben Woodbridge,,27,47,2,0,b,7,0.0,0,0,0,0,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Ted Sussum,,11,14,1,0,not out,8,10.0,2,41,0,6,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Craig Ottaway,,0,0,0,0,did not bat,9,10.0,2,32,2,1,0
+6803476,2025,17/05/2025,1st XI,3rd XI,Scott Peterson,,0,0,0,0,did not bat,10,8.0,0,25,4,1,1
+6803476,2025,17/05/2025,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,11,7.0,0,45,1,9,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Luke Bell,,28,37,4,0,ct,1,7.0,1,22,1,2,1
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Geoffrey Sussum,,1,9,0,0,b,2,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,James Lagdon,,12,20,2,0,b,3,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Wayne Davies,,8,14,1,0,lbw,4,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Jamie Valentine,,0,9,0,0,b,5,5.0,0,29,4,2,1
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Jon Humphreys,,29,38,5,0,b,6,8.0,4,13,3,4,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Sam Martin,,4,34,0,0,not out,7,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Alastair Rowe,,5,4,1,0,not out,8,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Toby Webster,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,5.0,0,22,0,8,3
+6804661,2025,17/05/2025,2nd XI,Saturday 4th XI,Viral Bhavsar,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Edward Pike,,102,55,14,4,retired not out,1,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Jon Lown,,2,12,0,0,ct,2,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Rishy Morjaria,,90,84,12,2,ct,3,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,31,16,3,2,ct,4,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,59,35,7,1,ct,5,6.0,1,34,2,2,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,1,3,0,0,lbw,6,2.0,0,22,0,1,1
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,0,4,0,0,ct,7,0.0,0,0,0,0,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Jamie Valentine,,14,21,1,0,b,8,8.0,3,18,4,2,0
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Joe Yerrell,,11,8,2,0,not out,9,1.0,0,8,2,0,1
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Joe Foster,,0,2,0,0,b,10,8.0,0,28,2,4,2
+7074453,2025,18/05/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,2,4,0,0,not out,11,3.0,0,29,0,9,5
+6803484,2025,24/05/2025,1st XI,1st XI,Craig Peterson,,4,16,0,0,b,1,3.0,1,13,1,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Yusuf Khan,,16,23,1,1,b,2,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Raheel Khan,,7,17,1,0,b,3,4.0,0,19,0,5,0
+6803484,2025,24/05/2025,1st XI,1st XI,Max Lee,,22,33,4,0,ct,4,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Lewis Thompson,,1,10,0,0,ct,5,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Callum Wilson,,1,11,0,0,lbw,6,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Rob Leybourne,,36,49,5,0,run out,7,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Ben Woodbridge,,0,1,0,0,b,8,0.0,0,0,0,0,0
+6803484,2025,24/05/2025,1st XI,1st XI,Ted Sussum,,29,39,3,0,lbw,9,9.0,2,34,4,15,0
+6803484,2025,24/05/2025,1st XI,1st XI,Chris Morris,,32,47,4,1,not out,10,7.0,2,33,1,3,0
+6803484,2025,24/05/2025,1st XI,1st XI,Jonny Carpenter,,11,17,1,0,ct,11,9.0,0,25,4,3,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Justin Hutchins,,5,0,1,0,b,1,4.0,0,0,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Geoffrey Sussum,,16,0,2,0,b,2,0.0,0,0,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Luke Bell,,6,0,1,0,ct,3,8.0,1,14,1,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Wayne Davies,,47,0,5,1,not out,4,0.0,0,0,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,James Lagdon,,13,0,3,0,ct,5,5.0,0,0,3,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Kevin Leathers,,26,0,4,0,not out,6,0.0,0,0,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Alastair Rowe,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Jon Humphreys,,0,0,0,0,did not bat,8,8.0,0,19,1,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Viral Bhavsar,,0,0,0,0,did not bat,9,4.0,0,25,2,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,3.0,0,10,0,0,0
+6804665,2025,24/05/2025,2nd XI,6th XI,Kabir Rab,,0,0,0,0,did not bat,11,8.0,1,31,0,0,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Edward Pike,,34,34,5,1,ct,1,8.3,0,33,4,1,1
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Jon Lown,,10,34,1,0,ct,2,0.0,0,0,0,0,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Yusuf Khan,,32,26,7,0,ct,3,0.0,0,0,0,0,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Ted Sussum,,6,11,1,0,ct,4,9.0,1,31,1,1,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Raheel Khan,,53,52,5,1,not out,5,5.0,0,23,0,1,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Iain Stewart,,23,34,3,0,ct,6,0.0,0,0,0,0,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Geoffrey Sussum,,22,17,3,1,b,7,1.5,0,22,0,6,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Alastair Rowe,,5,5,1,0,not out,8,0.0,0,0,0,0,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Freddie Ventham,,0,0,0,0,did not bat,9,2.0,0,28,1,0,1
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Luke Bell,,0,0,0,0,did not bat,10,5.0,0,39,1,2,0
+7074454,2025,25/05/2025,Sunday 1st XI,1st XI,Paul Green,,0,0,0,0,did not bat,11,1.1,0,10,1,2,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Raheel Khan,,13,11,3,0,ct,1,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Yusuf Khan,,95,68,15,3,ct,2,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Max Lee,,25,44,2,0,ct,3,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Rob Leybourne,,66,0,0,0,b,4,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Ted Sussum,,33,0,0,0,b,5,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Ben Woodbridge,,30,0,0,0,b,6,0.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Luke Bell,,3,0,0,0,b,7,1.0,0,0,0,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Craig Ottaway,,27,0,0,0,b,8,10.0,0,0,4,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Scott Peterson,,25,0,0,0,not out,9,9.0,0,0,5,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Joe Yerrell,,1,0,0,0,not out,10,0.4,0,0,1,0,0
+6803489,2025,31/05/2025,1st XI,3rd XI,Freddie Ventham,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Justin Hutchins,,7,12,1,0,ct,1,2.0,0,24,0,1,0
+6804671,2025,31/05/2025,2nd XI,6th XI,James Lagdon,,105,114,14,1,b,2,8.0,2,25,1,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Geoffrey Sussum,,0,8,0,0,ct,3,5.0,0,30,1,5,1
+6804671,2025,31/05/2025,2nd XI,6th XI,Warren Davies,,16,16,3,0,b,4,0.0,0,0,0,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Jon Humphreys,,0,6,0,0,ct,5,8.0,1,24,1,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Sam Martin,,2,4,0,0,b,6,0.0,0,0,0,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Sanjeeb Kundu,,14,18,2,0,run out,7,0.0,0,0,0,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Viral Bhavsar,,13,19,0,0,run out,8,7.0,1,56,4,4,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Ross Davies,,1,5,0,0,hit wicket,9,2.0,0,27,0,2,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Simba Mika,,1,6,0,0,b,10,0.0,0,0,0,0,0
+6804671,2025,31/05/2025,2nd XI,6th XI,Dave Gwynn-Costello,,0,8,0,0,not out,11,8.0,0,36,1,9,2
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Yusuf Khan,,12,12,0,2,ct,1,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Jon Lown,,28,69,2,0,ct,2,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,50,34,8,1,retired not out,3,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Wayne Davies,,45,45,8,0,b,4,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Raheel Khan,,5,6,1,0,ct,5,0.5,0,5,1,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Rishy Morjaria,,54,34,9,0,not out,6,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,35,18,5,1,not out,7,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,0,0,0,0,did not bat,8,5.0,0,25,2,3,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,10,7.0,0,38,3,7,1
+7074455,2025,01/06/2025,Sunday 1st XI,Friendly XI,Joe Foster,,0,0,0,0,did not bat,11,3.0,1,8,4,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Raheel Khan,,10,0,0,0,ct,1,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Yusuf Khan,,0,0,0,0,ct,2,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Max Lee,,1,0,0,0,not out,3,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Rob Leybourne,,2,0,0,0,b,4,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Justin Hutchins,,1,0,0,0,not out,5,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Ted Sussum,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Jack Thompson,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Unsure,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6803494,2025,07/06/2025,1st XI,2nd XI,Unsure,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,James Webster,,0,1,0,0,b,1,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Alastair Rowe,,1,6,0,0,b,2,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Warren Davies,,0,1,0,0,b,3,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Geoffrey Sussum,,1,18,0,0,ct,4,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Kevin Leathers,,1,4,0,0,ct,5,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Jon Humphreys,,63,113,7,0,ct,6,1.0,0,1,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Viral Bhavsar,,29,57,3,0,b,7,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Jamie Valentine,,14,30,0,0,b,8,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Alex Woodley,,11,14,1,1,not out,9,1.0,0,8,0,2,1
+6804673,2025,07/06/2025,2nd XI,3rd XI,Toby Webster,,2,3,0,0,run out,10,0.0,0,0,0,0,0
+6804673,2025,07/06/2025,2nd XI,3rd XI,Dave Gwynn-Costello,,0,0,0,0,not out,11,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Jon Lown,,46,83,4,0,ct,1,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Rishy Morjaria,,90,89,12,2,ct,2,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Henry Sussum,,18,15,3,0,ct,3,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Geoffrey Sussum,,4,3,1,0,b,4,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,James Lagdon,,28,25,1,1,not out,5,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Alastair Rowe,,19,30,1,0,not out,6,0.0,0,0,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Freddie Ventham,,0,0,0,0,did not bat,7,4.0,0,30,1,2,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Jamie Valentine,,0,0,0,0,did not bat,8,6.4,0,38,1,1,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Kabir Rab,,0,0,0,0,did not bat,9,8.0,3,20,5,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Joe Foster,,0,0,0,0,did not bat,10,6.0,3,13,0,0,0
+7145943,2025,08/06/2025,Sunday 1st XI,1st XI,Alex Jackson,,0,0,0,0,did not bat,11,4.0,0,21,3,3,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Craig Peterson,,6,8,1,0,ct,1,3.0,0,16,1,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Yusuf Khan,,34,38,3,1,st,2,0.0,0,0,0,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Callum Wilson,,38,33,3,1,ct,3,2.0,0,25,1,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Henry Sussum,,13,5,0,2,ct,4,4.0,0,26,0,3,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Max Lee,,16,17,1,0,not out,5,0.0,0,0,0,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Ted Sussum,,13,13,1,0,ct,6,0.0,0,0,0,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Kevin Leathers,,0,1,0,0,b,7,0.0,0,0,0,0,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Jonny Carpenter,,0,1,0,0,b,8,4.0,0,40,2,9,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Chris Morris,,2,4,0,0,not out,9,4.0,0,38,0,6,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Kabir Rab,,0,0,0,0,did not bat,10,1.0,0,21,0,3,0
+7056840,2025,10/06/2025,1st XI,Twenty20,Jon Humphreys,,0,0,0,0,did not bat,11,2.0,0,19,0,13,0
+6803498,2025,14/06/2025,1st XI,1st XI,Yusuf Khan,,23,15,5,0,b,1,0.0,0,0,0,0,0
+6803498,2025,14/06/2025,1st XI,1st XI,Ted Sussum,,19,21,4,0,b,2,7.0,0,40,0,0,1
+6803498,2025,14/06/2025,1st XI,1st XI,Raheel Khan,,0,7,0,0,ct,3,10.0,0,34,4,2,0
+6803498,2025,14/06/2025,1st XI,1st XI,Ben Woodbridge,,52,85,6,0,b,4,0.0,0,0,0,0,0
+6803498,2025,14/06/2025,1st XI,1st XI,Geoffrey Sussum,,1,3,0,0,ct,5,5.3,0,35,1,1,0
+6803498,2025,14/06/2025,1st XI,1st XI,Joe Yerrell,,8,13,1,0,ct,6,10.0,1,41,1,2,0
+6803498,2025,14/06/2025,1st XI,1st XI,Kevin Leathers,,1,10,0,0,b,7,0.0,0,0,0,0,0
+6803498,2025,14/06/2025,1st XI,1st XI,Viral Bhavsar,,16,29,2,0,b,8,0.0,0,0,0,0,0
+6803498,2025,14/06/2025,1st XI,1st XI,Craig Ottaway,,21,18,3,0,b,9,10.0,1,31,1,2,1
+6803498,2025,14/06/2025,1st XI,1st XI,Alex Jackson,,5,10,0,0,run out,10,5.0,0,35,0,4,2
+6803498,2025,14/06/2025,1st XI,1st XI,Dave Gwynn-Costello,,0,2,0,0,not out,11,2.3,0,22,0,5,3
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Jon Lown,,1,3,0,0,run out,1,0.0,0,0,0,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,0,1,0,0,b,2,0.0,0,0,0,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Brad Norton,,13,14,3,0,b,3,0.0,0,0,0,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Rishy Morjaria,,51,59,8,0,ct,4,0.0,0,0,0,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,0,1,0,0,b,5,5.0,0,25,0,0,1
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,12,9,3,0,b,6,6.0,0,17,1,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,1,3,0,0,run out,7,6.0,0,48,1,1,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Alastair Rowe,,9,28,2,0,b,8,0.0,0,0,0,0,0
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Alex Jackson,,6,23,1,0,ct,9,7.0,0,51,6,9,2
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,9,30,1,0,not out,10,8.0,1,34,0,2,1
+7150159,2025,15/06/2025,Sunday 1st XI,Friendly XI,Kabir Rab,,0,2,0,0,ct,11,8.0,1,32,1,1,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Craig Peterson,,29,30,4,0,lbw,1,4.0,1,4,0,2,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Yusuf Khan,,117,120,14,5,b,2,0.0,0,0,0,0,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Raheel Khan,,25,37,4,0,ct,3,4.0,0,19,2,4,1
+6803503,2025,21/06/2025,1st XI,2nd XI,Max Lee,,12,25,1,0,ct,4,0.0,0,0,0,0,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Rob Leybourne,,5,7,1,0,lbw,5,0.0,0,0,0,0,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Ben Woodbridge,,12,24,2,0,b,6,0.0,0,0,0,0,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Ted Sussum,,5,11,1,0,ct,7,7.0,0,28,3,6,1
+6803503,2025,21/06/2025,1st XI,2nd XI,Luke Bell,,11,16,2,0,b,8,3.0,0,25,0,7,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Jonny Carpenter,,12,19,0,0,ct,9,4.0,0,12,0,1,1
+6803503,2025,21/06/2025,1st XI,2nd XI,Joe Yerrell,,13,13,2,0,not out,10,8.0,2,22,3,0,0
+6803503,2025,21/06/2025,1st XI,2nd XI,Lewis Thompson,,0,1,0,0,b,11,5.4,0,15,2,5,1
+6804684,2025,21/06/2025,2nd XI,2nd XI,Justin Hutchins,,0,4,0,0,b,1,0.0,0,0,0,0,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Geoffrey Sussum,,26,55,5,0,b,2,1.0,0,10,1,1,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,James Lagdon,,7,14,1,0,b,3,8.0,2,31,4,3,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Wayne Davies,,26,50,4,0,b,4,0.0,0,0,0,0,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Sam Martin,,12,23,2,0,b,5,0.0,0,0,0,0,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Viral Bhavsar,,2,17,0,0,ct,6,0.0,0,0,0,0,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Alex Jackson,,6,30,0,0,b,7,2.0,0,20,0,2,1
+6804684,2025,21/06/2025,2nd XI,2nd XI,Dave Gwynn-Costello,,2,11,0,0,lbw,8,0.0,0,0,0,0,0
+6804684,2025,21/06/2025,2nd XI,2nd XI,Kevin Phillips,,12,17,2,0,not out,9,4.0,0,27,1,2,1
+6804684,2025,21/06/2025,2nd XI,2nd XI,Kabir Rab,,0,1,0,0,ct,10,6.0,0,34,1,5,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Jon Lown,,17,38,2,0,ct,1,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,178,87,23,8,not out,2,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Edward Pike,,15,10,1,1,ct,3,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,35,24,3,2,ct,4,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,James Lagdon,,21,19,3,0,ct,5,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,0,3,0,0,ct,6,2.2,1,5,2,1,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,16,16,3,0,not out,7,0.0,0,0,0,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,0,0,0,0,did not bat,8,8.0,0,25,5,3,1
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Alex Jackson,,0,0,0,0,did not bat,9,5.0,0,26,1,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,10,5.0,0,19,1,0,0
+7044151,2025,22/06/2025,Sunday 1st XI,Friendly XI,Joe Foster,,0,0,0,0,did not bat,11,5.0,4,1,1,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Raheel Khan,,20,38,4,0,b,1,3.0,2,4,0,1,1
+6803506,2025,28/06/2025,1st XI,1st XI,Yusuf Khan,,0,2,0,0,b,2,0.0,0,0,0,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Rob Leybourne,,8,9,2,0,ct,3,0.0,0,0,0,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Callum Wilson,,19,34,4,0,b,4,0.0,0,0,0,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Ben Woodbridge,,11,27,1,0,b,5,0.0,0,0,0,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Chris Morris,,0,4,0,0,lbw,6,6.0,1,20,2,3,0
+6803506,2025,28/06/2025,1st XI,1st XI,Craig Ottaway,,0,5,0,0,lbw,7,10.0,3,30,4,1,0
+6803506,2025,28/06/2025,1st XI,1st XI,Scott Peterson,,1,20,0,0,lbw,8,6.0,1,17,1,5,0
+6803506,2025,28/06/2025,1st XI,1st XI,Joe Yerrell,,0,1,1,0,b,9,5.4,2,10,2,1,0
+6803506,2025,28/06/2025,1st XI,1st XI,Lewis Thompson,,9,15,2,0,b,10,0.0,0,0,0,0,0
+6803506,2025,28/06/2025,1st XI,1st XI,Joseph Lewin,,0,7,0,0,not out,11,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Justin Hutchins,,20,22,4,0,b,1,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Geoffrey Sussum,,1,7,0,0,ct,2,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Luke Bell,,45,50,9,0,ct,3,8.0,1,48,4,4,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,James Lagdon,,90,117,12,0,ct,4,6.0,0,26,1,5,1
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,James Webster,,0,2,0,0,ct,5,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Ishaan Kundu,,2,8,0,0,ct,6,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Jon Humphreys,,8,18,1,0,ct,7,8.0,2,15,1,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Sam Martin,,10,7,1,0,ct,8,0.0,0,0,0,0,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Viral Bhavsar,,12,15,2,0,run out,9,5.0,0,21,0,2,0
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Alex Jackson,,4,6,0,0,not out,10,8.0,0,41,2,4,3
+6804690,2025,28/06/2025,2nd XI,Saturday 3rd XI,Dave Gwynn-Costello,,1,1,0,0,not out,11,1.1,0,4,2,1,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Viral Bhavsar,,23,33,4,0,ct,1,4.0,0,17,1,2,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Iain Stewart,,6,13,1,0,ct,2,0.0,0,0,0,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Ishaan Kundu,,14,22,3,0,b,3,0.0,0,0,0,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Kevin Leathers,,48,59,9,0,run out,4,0.0,0,0,0,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Luke Bell,,2,7,0,0,ct,5,7.0,0,56,1,3,2
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Geoffrey Sussum,,2,7,0,0,lbw,6,3.0,0,31,2,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Freddie Ventham,,9,36,1,0,ct,7,7.0,2,24,1,8,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Joe Foster,,14,24,2,0,ct,8,7.0,1,28,2,3,1
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Toby Webster,,5,8,0,0,not out,9,0.0,0,0,0,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Simba Mika,,0,3,0,0,b,10,0.0,0,0,0,0,0
+6782710,2025,29/06/2025,Sunday 1st XI,Sunday Friendly XI,Kabir Rab,,0,0,0,0,did not bat,11,7.0,1,22,1,2,0
+7056833,2025,30/06/2025,1st XI,1st XI,Craig Peterson,,56,41,5,0,ct,1,3.0,0,23,1,3,0
+7056833,2025,30/06/2025,1st XI,1st XI,Yusuf Khan,,8,14,0,0,st,2,0.0,0,0,0,0,0
+7056833,2025,30/06/2025,1st XI,1st XI,Edward Pike,,8,9,1,0,ct,3,4.0,0,28,3,6,1
+7056833,2025,30/06/2025,1st XI,1st XI,Callum Wilson,,0,2,0,0,ct,4,1.0,0,17,0,3,0
+7056833,2025,30/06/2025,1st XI,1st XI,Tayyab Sadiq,,27,25,2,0,ct,5,0.0,0,0,0,0,0
+7056833,2025,30/06/2025,1st XI,1st XI,Nathan Ellis-Jones,,6,10,0,0,ct,6,0.0,0,0,0,0,0
+7056833,2025,30/06/2025,1st XI,1st XI,Sam Martin,,5,5,0,0,not out,7,0.0,0,0,0,0,0
+7056833,2025,30/06/2025,1st XI,1st XI,Kevin Leathers,,7,6,0,0,not out,8,0.0,0,0,0,0,0
+7056833,2025,30/06/2025,1st XI,1st XI,Henry Sussum,,0,0,0,0,did not bat,9,4.0,0,25,1,3,0
+7056833,2025,30/06/2025,1st XI,1st XI,Jonny Carpenter,,0,0,0,0,did not bat,10,4.0,0,17,1,6,0
+7056833,2025,30/06/2025,1st XI,1st XI,Scott Peterson,,0,0,0,0,did not bat,11,3.3,0,43,0,9,1
+6803513,2025,05/07/2025,1st XI,2nd XI,Craig Peterson,,61,50,10,0,ct,1,4.1,1,22,2,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Yusuf Khan,,58,63,11,0,run out,2,0.0,0,0,0,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Max Lee,,0,1,0,0,ct,3,0.0,0,0,0,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Lewis Thompson,,9,9,2,0,b,4,8.0,0,39,2,7,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Callum Wilson,,44,58,6,0,ct,5,5.0,0,27,2,2,1
+6803513,2025,05/07/2025,1st XI,2nd XI,Ben Woodbridge,,20,20,3,0,lbw,6,0.0,0,0,0,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Ted Sussum,,103,58,14,3,not out,7,7.0,0,39,2,3,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Viral Bhavsar,,35,36,5,0,not out,8,0.0,0,0,0,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,9,8.0,2,44,0,4,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Ishaan Kundu,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6803513,2025,05/07/2025,1st XI,2nd XI,Jon Humphreys,,0,0,0,0,did not bat,11,6.0,0,34,1,1,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Jon Lown,,80,113,13,0,ct,1,0.0,0,0,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Ted Sussum,,58,39,7,3,lbw,2,4.0,0,30,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Geoffrey Sussum,,4,4,1,0,b,3,2.2,0,16,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Henry Sussum,,101,51,16,2,st,4,6.0,0,54,0,0,1
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Nathan Ellis-Jones,,18,8,3,0,not out,5,0.0,0,0,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Jamie Valentine,,1,1,0,0,not out,6,4.0,0,61,0,5,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Freddie Ventham,,0,0,0,0,did not bat,7,4.0,0,17,0,1,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Joe Foster,,0,0,0,0,did not bat,8,6.0,0,47,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Ross Davies,,0,0,0,0,did not bat,9,4.0,0,21,1,10,1
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Toby Webster,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+7074460,2025,06/07/2025,Sunday 1st XI,Sunday XI,Charlie Sussum,,0,0,0,0,did not bat,11,3.0,0,24,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Ted Sussum,,77,57,13,1,ct,1,4.0,0,28,1,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Yusuf Khan,,162,152,17,0,not out,2,0.0,0,0,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Raheel Khan,,60,65,9,0,b,3,10.0,2,42,2,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Rob Leybourne,,14,13,1,0,ct,4,2.0,0,10,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Max Lee,,14,13,1,0,not out,5,0.0,0,0,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,6,10.0,2,35,3,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Alex Jackson,,0,0,0,0,did not bat,7,3.0,0,15,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,8,10.0,0,50,1,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,9,6.0,0,29,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Kevin Leathers,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6803517,2025,12/07/2025,1st XI,2nd XI,Tommy Devoy,,0,0,0,0,did not bat,11,5.0,0,28,1,0,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Jon Humphreys,,0,9,0,0,b,1,8.0,2,37,0,1,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Geoffrey Sussum,,37,34,6,1,b,2,8.0,0,34,2,10,1
+6804701,2025,12/07/2025,2nd XI,4th XI,Ishaan Kundu,,18,24,2,0,b,3,0.0,0,0,0,0,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Wayne Davies,,38,39,4,1,ct,4,0.0,0,0,0,0,0
+6804701,2025,12/07/2025,2nd XI,4th XI,James Lagdon,,28,33,5,0,lbw,5,8.0,1,41,2,6,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Manish Yadav,,0,1,0,0,st,6,8.0,0,37,0,11,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Alastair Rowe,,26,33,3,1,ct,7,0.0,0,0,0,0,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Viral Bhavsar,,0,4,0,0,ct,8,4.0,0,26,1,7,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Zach Ghosh,,1,12,0,0,b,9,0.0,0,0,0,0,0
+6804701,2025,12/07/2025,2nd XI,4th XI,Dave Gwynn-Costello,,15,25,2,1,not out,10,4.0,0,27,3,15,1
+6804701,2025,12/07/2025,2nd XI,4th XI,Simba Mika,,6,8,1,0,b,11,0.0,0,0,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Jon Lown,,12,41,1,0,ct,1,0.0,0,0,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,52,53,4,3,ct,2,2.0,0,15,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,5,6,1,0,ct,3,5.0,0,18,0,1,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Rishy Morjaria,,63,60,9,1,not out,4,4.0,0,23,1,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Henry Sussum,,89,48,15,1,ct,5,3.0,0,13,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Nathan Ellis-Jones,,0,2,0,0,ct,6,0.0,0,0,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Jamie Valentine,,0,0,0,0,not out,7,9.0,0,65,2,2,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Alex Jackson,,0,0,0,0,did not bat,8,3.0,0,31,0,7,1
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,0,0,0,0,did not bat,9,4.0,0,33,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Toby Webster,,0,0,0,0,did not bat,10,2.0,0,19,0,0,0
+7167398,2025,13/07/2025,Sunday 1st XI,Friendly XI,Charlie Sussum,,0,0,0,0,did not bat,11,2.2,0,17,0,1,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Craig Peterson,,53,33,7,1,b,1,0.0,0,0,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Ted Sussum,,8,3,2,0,ct,2,2.3,0,21,0,9,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Callum Wilson,,21,17,3,0,ct,3,2.0,0,18,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Jamie Woodley,,10,12,2,0,ct,4,1.0,0,13,0,3,1
+7056835,2025,15/07/2025,1st XI,2nd XI,Max Lee,,22,19,2,0,ct,5,0.0,0,0,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,James Webster,,12,16,0,1,ct,6,0.0,0,0,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Tommy Devoy,,19,15,1,0,not out,7,0.0,0,0,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Ishaan Kundu,,0,1,0,0,b,8,0.0,0,0,0,0,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Chris Morris,,0,2,0,0,ct,9,2.0,0,27,1,3,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Jamie Valentine,,5,4,1,0,not out,10,2.0,0,26,0,3,0
+7056835,2025,15/07/2025,1st XI,2nd XI,Kabir Rab,,0,0,0,0,did not bat,11,1.0,0,15,0,6,0
+6803530,2025,26/07/2025,1st XI,1st XI,Yusuf Khan,,25,37,5,0,ct,1,0.0,0,0,0,0,0
+6803530,2025,26/07/2025,1st XI,1st XI,Raheel Khan,,39,83,8,0,ct,2,10.0,0,28,3,3,1
+6803530,2025,26/07/2025,1st XI,1st XI,Rob Leybourne,,8,26,2,0,b,3,9.0,0,35,0,0,0
+6803530,2025,26/07/2025,1st XI,1st XI,Callum Wilson,,1,6,0,0,b,4,7.2,0,38,4,3,0
+6803530,2025,26/07/2025,1st XI,1st XI,Lewis Thompson,,20,41,2,1,b,5,5.0,0,26,0,2,1
+6803530,2025,26/07/2025,1st XI,1st XI,Luke Bell,,19,19,2,1,ct,6,0.0,0,0,0,0,0
+6803530,2025,26/07/2025,1st XI,1st XI,Ishaan Kundu,,0,3,0,0,b,7,0.0,0,0,0,0,0
+6803530,2025,26/07/2025,1st XI,1st XI,Kevin Leathers,,8,12,1,0,b,8,0.0,0,0,0,0,0
+6803530,2025,26/07/2025,1st XI,1st XI,Craig Ottaway,,54,47,10,1,not out,9,10.0,2,21,2,0,1
+6803530,2025,26/07/2025,1st XI,1st XI,Joe Yerrell,,1,20,0,0,lbw,10,6.0,2,22,1,4,2
+6803530,2025,26/07/2025,1st XI,1st XI,Freddie Ventham,,1,4,0,0,b,11,0.0,0,0,0,0,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Jamie Valentine,,1,21,0,0,ct,1,5.0,0,33,0,4,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Geoffrey Sussum,,4,7,1,0,ct,2,5.0,1,31,1,6,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Sam Martin,,32,64,5,0,ct,3,0.0,0,0,0,0,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Wayne Davies,,60,64,7,1,ct,4,0.0,0,0,0,0,0
+6804711,2025,26/07/2025,2nd XI,6th XI,James Lagdon,,0,8,0,0,ct,5,7.0,1,30,2,1,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Manish Yadav,,19,37,2,0,ct,6,7.0,0,22,1,2,0
+6804711,2025,26/07/2025,2nd XI,6th XI,James Webster,,14,4,2,1,ct,7,0.0,0,0,0,0,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Viral Bhavsar,,29,25,2,2,not out,8,5.0,1,19,1,2,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Zach Ghosh,,4,10,0,0,not out,9,0.0,0,0,0,0,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,2.3,0,15,2,2,0
+6804711,2025,26/07/2025,2nd XI,6th XI,Nick Southworth,,0,0,0,0,did not bat,11,7.0,0,39,3,8,1
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Jon Lown,,12,27,1,0,ct,1,0.0,0,0,0,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Rishy Morjaria,,78,56,14,0,b,2,0.0,0,0,0,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,James Lagdon,,39,43,7,0,b,3,4.0,0,17,4,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,James Webster,,19,10,3,1,ct,4,0.0,0,0,0,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Geoffrey Sussum,,15,20,3,0,ct,5,0.0,0,0,0,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Iain Stewart,,8,19,1,0,ct,6,0.0,0,0,0,0,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Jamie Valentine,,2,5,0,0,b,7,6.0,0,55,1,1,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Freddie Ventham,,22,31,5,0,b,8,5.0,0,26,2,0,1
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Dave Gwynn-Costello,,0,5,0,0,b,9,5.0,0,14,0,2,0
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Toby Webster,,1,3,0,0,not out,10,1.0,0,6,0,0,1
+7074462,2025,27/07/2025,Sunday 1st XI,1st XI,Joe Foster,,9,8,2,0,b,11,8.0,1,42,3,1,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Craig Peterson,,21,17,4,0,not out,1,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Yusuf Khan,,22,22,1,1,not out,2,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Raheel Khan,,0,0,0,0,did not bat,3,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Ted Sussum,,0,0,0,0,did not bat,4,7.0,1,8,3,2,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Justin Hutchins,,0,0,0,0,did not bat,5,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Ben Woodbridge,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Luke Bell,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Chris Morris,,0,0,0,0,did not bat,8,9.0,0,24,5,6,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Scott Peterson,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+6803534,2025,02/08/2025,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,10,2.5,0,12,1,5,1
+6803534,2025,02/08/2025,1st XI,3rd XI,Freddie Ventham,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Jon Lown,,7,17,0,0,ct,1,0.0,0,0,0,0,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Ted Sussum,,44,22,8,1,b,2,6.2,1,33,3,12,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Rishy Morjaria,,0,3,0,0,ct,3,7.0,2,13,1,2,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Nick Southworth,,20,33,2,0,ct,4,2.0,0,28,0,1,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Geoffrey Sussum,,83,81,13,2,not out,5,0.0,0,0,0,0,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Iain Stewart,,26,31,6,0,ct,6,0.0,0,0,0,0,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,James Webster,,8,7,0,1,b,7,2.0,0,15,0,1,2
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Jamie Valentine,,3,9,0,0,b,8,4.4,0,37,1,0,2
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Freddie Ventham,,0,12,0,0,not out,9,4.0,0,25,0,1,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Joe Foster,,0,0,0,0,did not bat,10,4.0,0,29,0,0,0
+6845759,2025,03/08/2025,Sunday 1st XI,Sunday XI,Toby Webster,,0,0,0,0,did not bat,11,0.3,0,14,0,1,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Max Lee,,0,1,0,0,ct,1,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Yusuf Khan,,28,24,2,1,ct,2,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Rishy Morjaria,,0,1,0,0,ct,3,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Ted Sussum,,9,10,1,0,ct,4,3.0,0,39,0,10,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Tommy Devoy,,6,14,0,0,ct,5,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Chris Morris,,0,2,0,0,ct,6,1.0,0,6,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Jonny Carpenter,,0,1,0,0,ct,7,2.0,0,28,1,3,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Nick Southworth,,1,2,0,0,st,8,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Luke Bell,,0,1,0,0,ct,9,4.0,0,39,2,3,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Jamie Valentine,,18,22,3,0,not out,10,0.0,0,0,0,0,0
+7056837,2025,06/08/2025,1st XI,Twenty20,Alex Jackson,,7,12,1,0,ct,11,0.5,0,10,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Ted Sussum,,38,49,7,0,ct,1,4.4,0,39,1,5,2
+6803538,2025,09/08/2025,1st XI,2nd XI,Yusuf Khan,,0,7,0,0,lbw,2,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Raheel Khan,,35,59,6,0,ct,3,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Max Lee,,1,6,0,0,ct,4,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Rob Leybourne,,0,4,0,0,ct,5,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Callum Wilson,,29,45,6,0,lbw,6,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Justin Hutchins,,1,14,0,0,lbw,7,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Craig Ottaway,,0,7,0,0,b,8,9.0,0,36,3,0,1
+6803538,2025,09/08/2025,1st XI,2nd XI,Joseph Lewin,,0,4,0,0,b,9,0.0,0,0,0,0,0
+6803538,2025,09/08/2025,1st XI,2nd XI,Joe Yerrell,,6,21,0,0,not out,10,7.0,0,47,3,5,2
+6803538,2025,09/08/2025,1st XI,2nd XI,Toby Webster,,5,10,1,0,ct,11,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Manish Yadav,,0,2,0,0,b,1,8.0,0,45,1,3,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Ed Sussum,,26,39,4,0,b,2,8.0,0,39,0,3,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Harry Lock,,1,7,0,0,lbw,3,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Wayne Davies,,23,35,2,0,lbw,4,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Nathan Ellis-Jones,,30,56,4,0,ct,5,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Shivaank Bala,,28,43,4,0,lbw,6,7.0,0,61,1,3,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Pat Bala,,8,20,0,0,ct,7,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Geoffrey Sussum,,7,12,1,0,not out,8,8.0,0,50,2,5,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Alex Jackson,,49,23,10,0,b,9,6.0,0,46,1,13,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Sam Caisley,,5,9,1,0,not out,10,0.0,0,0,0,0,0
+6804721,2025,09/08/2025,2nd XI,3rd XI,Ollie Sussum,,0,0,0,0,did not bat,11,3.0,0,38,0,11,3
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Jon Lown,,43,73,7,0,ct,1,0.0,0,0,0,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Ted Sussum,,115,90,22,1,lbw,2,0.0,0,0,0,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Riki Sridhan,,8,15,1,0,b,3,5.0,0,38,1,1,2
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Rishy Morjaria,,18,18,2,0,not out,4,0.0,0,0,0,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Geoffrey Sussum,,6,14,1,0,b,5,3.0,1,7,2,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Nick Southworth,,4,7,0,0,not out,6,1.0,0,5,1,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Harry Ryan,,0,0,0,0,did not bat,7,3.0,0,33,0,0,1
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Freddie Ventham,,0,0,0,0,did not bat,8,4.0,0,19,2,1,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Alex Jackson,,0,0,0,0,did not bat,9,4.0,1,19,2,2,1
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Joe Foster,,0,0,0,0,did not bat,10,7.0,1,33,2,0,0
+7059171,2025,10/08/2025,Sunday 1st XI,The Commoners,Iain Stewart,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Craig Peterson,,13,26,2,0,ct,1,3.0,0,20,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Yusuf Khan,,10,18,2,0,ct,2,0.0,0,0,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Raheel Khan,,58,84,10,0,lbw,3,6.0,0,24,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Ted Sussum,,12,25,2,0,ct,4,10.0,3,25,3,8,1
+6803543,2025,16/08/2025,1st XI,1st XI,Max Lee,,2,17,0,0,lbw,5,0.0,0,0,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Justin Hutchins,,70,82,8,2,lbw,6,0.0,0,0,0,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Jonny Carpenter,,8,8,1,0,lbw,7,4.0,1,10,2,0,0
+6803543,2025,16/08/2025,1st XI,1st XI,Scott Peterson,,14,26,1,0,ct,8,8.0,0,45,2,7,1
+6803543,2025,16/08/2025,1st XI,1st XI,Rob Leybourne,,35,14,6,1,not out,9,4.0,1,7,0,1,0
+6803543,2025,16/08/2025,1st XI,1st XI,Joe Yerrell,,6,4,1,0,not out,10,3.0,0,14,2,1,0
+6803543,2025,16/08/2025,1st XI,1st XI,Freddie Ventham,,0,0,0,0,did not bat,11,4.0,0,13,0,2,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Nick Southworth,,1,0,0,0,b,1,2.0,0,12,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Geoffrey Sussum,,56,0,0,0,b,2,8.0,1,25,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Luke Bell,,4,0,0,0,b,3,7.0,0,47,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Wayne Davies,,17,0,0,0,ct,4,0.0,0,0,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Ishaan Kundu,,66,0,0,0,st,5,0.0,0,0,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Alastair Rowe,,34,0,0,0,not out,6,0.0,0,0,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Jamie Valentine,,1,0,0,0,run out,7,8.0,1,23,1,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Unsure,,0,0,0,0,ct,8,3.0,0,23,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Viral Bhavsar,,0,0,0,0,b,9,7.0,0,53,0,0,0
+6804725,2025,16/08/2025,2nd XI,5th XI,Alex Jackson,,17,0,0,0,not out,10,5.0,0,28,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Jon Lown,,4,20,0,0,b,1,0.0,0,0,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Ted Sussum,,29,23,6,0,b,2,4.0,0,18,0,2,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Rishy Morjaria,,16,24,3,0,ct,3,0.0,0,0,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Ishaan Kundu,,0,3,0,0,b,4,0.0,0,0,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,R Sridharan,,26,27,5,0,ct,5,5.0,1,10,3,1,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Geoffrey Sussum,,46,50,8,1,b,6,0.0,0,0,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Iain Stewart,,32,32,5,0,lbw,7,0.0,0,0,0,0,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Ross Davies,,11,13,2,0,ct,8,3.5,0,19,1,3,1
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Freddie Ventham,,5,9,0,0,not out,9,6.0,1,26,1,1,0
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Joshua Williams,,3,10,0,0,not out,10,4.0,0,25,3,3,1
+7074464,2025,17/08/2025,Sunday 1st XI,Sunday 1st XI,Paul Green,,0,0,0,0,did not bat,11,3.0,0,10,2,3,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Ted Sussum,,20,43,3,0,ct,1,7.0,1,26,1,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Yusuf Khan,,25,47,3,0,st,2,0.0,0,0,0,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Raheel Khan,,63,113,5,0,ct,3,9.1,1,27,3,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Rob Leybourne,,41,62,6,0,lbw,4,0.0,0,0,0,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Max Lee,,47,35,6,0,not out,5,0.0,0,0,0,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Lewis Thompson,,6,2,1,0,not out,6,8.0,0,46,2,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Justin Hutchins,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,8,10.0,3,17,3,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Chris Morris,,0,0,0,0,did not bat,9,6.0,1,24,0,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,10,6.0,1,24,1,0,0
+6803547,2025,23/08/2025,1st XI,2nd XI,Freddie Ventham,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Jon Lown,,31,64,4,1,ct,1,0.0,0,0,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Geoffrey Sussum,,6,19,1,0,ct,2,6.0,0,34,0,2,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Luke Bell,,30,63,3,1,ct,3,6.0,1,41,0,1,1
+6804731,2025,23/08/2025,2nd XI,2nd XI,James Webster,,43,17,0,6,b,4,2.0,0,26,0,5,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Ishaan Kundu,,2,5,0,0,ct,5,1.0,0,7,0,1,1
+6804731,2025,23/08/2025,2nd XI,2nd XI,Kevin Leathers,,39,41,4,1,ct,6,0.0,0,0,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Viral Bhavsar,,7,6,1,0,ct,7,4.0,0,36,0,3,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Sam Martin,,25,24,4,0,not out,8,0.0,0,0,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Sanjeeb Kundu,,0,2,0,0,not out,9,0.0,0,0,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Toby Webster,,0,0,0,0,did not bat,10,2.1,0,12,0,0,0
+6804731,2025,23/08/2025,2nd XI,2nd XI,Shivaank Bala,,0,0,0,0,did not bat,11,5.0,0,32,1,2,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Jon Lown,,69,102,6,2,ct,1,0.0,0,0,0,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Yusuf Khan,,17,10,4,0,b,2,0.0,0,0,0,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Ted Sussum,,10,14,1,0,ct,3,7.0,0,43,0,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,James Lagdon,,31,37,4,0,ct,4,5.0,0,59,0,2,1
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Kevin Leathers,,24,23,2,2,b,5,0.0,0,0,0,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Geoffrey Sussum,,3,8,0,0,run out,6,1.0,0,5,2,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Henry Sussum,,34,15,4,2,ct,7,13.0,4,35,4,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,R Sridharan,,0,2,0,0,lbw,8,6.0,0,40,0,1,3
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Freddie Ventham,,11,19,1,0,not out,9,7.0,0,36,3,1,3
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Toby Webster,,15,12,1,1,not out,10,0.0,0,0,0,0,0
+6810807,2025,26/08/2025,Midweek XI,Bucks Tour XI,Simba Mika,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6803553,2025,30/08/2025,1st XI,1st XI,Ted Sussum,,0,0,0,0,,,8.0,0,22,2,1,0
+6803553,2025,30/08/2025,1st XI,1st XI,Jonny Carpenter,,0,0,0,0,,,8.0,1,20,2,0,0
+6803553,2025,30/08/2025,1st XI,1st XI,Craig Peterson,,0,0,0,0,,,8.0,0,42,2,6,0
+6803553,2025,30/08/2025,1st XI,1st XI,Joe Yerrell,,0,0,0,0,,,8.0,3,16,0,4,0
+6803553,2025,30/08/2025,1st XI,1st XI,Raheel Khan,,0,0,0,0,,,3.0,0,26,1,2,0
+6803553,2025,30/08/2025,1st XI,1st XI,Lewis Thompson,,0,0,0,0,,,2.1,0,32,1,2,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Ishaan Kundu,,0,3,0,0,lbw,1,0.0,0,0,0,0,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Justin Hutchins,,9,9,2,0,ct,2,0.0,0,0,0,0,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,James Lagdon,,18,21,4,0,not out,3,8.0,0,53,1,2,1
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Wayne Davies,,6,8,0,0,not out,4,0.0,0,0,0,0,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Sam Martin,,0,0,0,0,did not bat,5,0.0,0,0,0,0,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Geoffrey Sussum,,0,0,0,0,did not bat,6,5.0,0,28,0,2,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Freddie Ventham,,0,0,0,0,did not bat,7,8.0,1,42,2,2,5
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Viral Bhavsar,,0,0,0,0,did not bat,8,6.0,1,14,0,4,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Shivaank Bala,,0,0,0,0,did not bat,9,5.0,0,31,0,4,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,3.0,0,28,1,2,0
+6804733,2025,30/08/2025,2nd XI,Saturday 3rd XI,Nick Southworth,,0,0,0,0,did not bat,11,5.0,0,23,1,1,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Jon Lown,,28,63,4,0,ct,1,0.0,0,0,0,0,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,James Webster,,9,6,2,0,b,2,0.0,0,0,0,0,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Ted Sussum,,94,78,12,4,not out,3,5.0,1,14,1,0,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Nick Southworth,,11,13,2,0,not out,4,2.0,0,18,0,0,2
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Iain Stewart,,0,0,0,0,did not bat,5,0.0,0,0,0,0,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Geoffrey Sussum,,0,0,0,0,did not bat,6,2.0,0,10,2,0,1
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Freddie Ventham,,0,0,0,0,did not bat,7,5.0,1,11,1,2,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,R Sridharan,,0,0,0,0,did not bat,8,7.0,1,27,0,0,2
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Henry Sussum,,0,0,0,0,did not bat,9,4.0,1,12,1,1,0
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Toby Webster,,0,0,0,0,did not bat,10,5.0,0,29,0,0,1
+7074466,2025,31/08/2025,Sunday 1st XI,Sunday 1st XI,Joe Foster,,0,0,0,0,did not bat,11,5.0,0,25,0,2,1
+6803560,2025,06/09/2025,1st XI,2nd XI,Craig Peterson,,66,68,12,0,lbw,1,0.0,0,0,0,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Yusuf Khan,,18,21,3,0,ct,2,0.0,0,0,0,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Ted Sussum,,9,18,2,0,ct,3,6.0,2,30,0,14,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Callum Wilson,,35,33,6,0,run out,4,0.0,0,0,0,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Rob Leybourne,,0,1,0,0,ct,5,0.0,0,0,0,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Ben Woodbridge,,0,2,0,0,b,6,0.0,0,0,0,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Chris Morris,,0,4,0,0,not out,7,6.0,1,31,2,7,1
+6803560,2025,06/09/2025,1st XI,2nd XI,Craig Ottaway,,13,6,3,0,not out,8,7.0,1,28,1,1,1
+6803560,2025,06/09/2025,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,9,3.0,1,2,1,0,0
+6803560,2025,06/09/2025,1st XI,2nd XI,Scott Peterson,,0,0,0,0,did not bat,10,4.1,0,23,2,2,3
+6803560,2025,06/09/2025,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,11,8.0,1,22,3,2,1
+6804740,2025,06/09/2025,2nd XI,4th XI,Viral Bhavsar,,0,4,0,0,ct,1,8.0,1,50,2,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Sam Martin,,9,16,1,0,ct,2,0.0,0,0,0,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,James Lagdon,,49,39,7,1,ct,3,8.0,0,67,0,6,2
+6804740,2025,06/09/2025,2nd XI,4th XI,Wayne Davies,,27,25,4,0,b,4,0.0,0,0,0,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Luke Bell,,24,42,4,0,ct,5,6.3,0,55,1,1,2
+6804740,2025,06/09/2025,2nd XI,4th XI,Simba Mika,,0,1,0,0,b,6,0.0,0,0,0,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Geoffrey Sussum,,47,34,11,0,ct,7,3.0,0,20,1,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Shivaank Bala,,4,11,0,0,ct,8,3.0,0,24,0,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Alex Jackson,,2,8,0,0,b,9,5.0,0,43,0,5,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Toby Webster,,0,2,0,0,b,10,2.3,0,32,0,0,0
+6804740,2025,06/09/2025,2nd XI,4th XI,Dave Gwynn-Costello,,0,1,0,0,not out,11,4.0,0,30,0,2,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Edward Pike,,77,40,4,6,ct,1,0.0,0,0,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Ted Sussum,,81,65,13,1,ct,2,0.0,0,0,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Nick Southworth,,1,10,0,0,lbw,3,2.0,0,9,1,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,James Webster,,9,9,0,1,b,4,1.0,0,4,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Geoffrey Sussum,,16,26,4,0,st,5,6.0,0,33,2,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,R Sridharan,,17,17,2,1,ct,6,0.0,0,0,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Alastair Rowe,,17,19,2,0,not out,7,0.0,0,0,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Henry Sussum,,26,13,2,2,not out,8,5.0,0,24,0,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Toby Webster,,0,0,0,0,did not bat,9,7.0,1,25,2,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Joe Foster,,0,0,0,0,did not bat,10,7.0,1,23,4,0,0
+7074468,2025,07/09/2025,Sunday 1st XI,1st XI,Freddie Ventham,,0,0,0,0,did not bat,11,7.0,0,41,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Ted Sussum,,14,11,1,1,ct,1,2.0,0,31,0,1,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Yusuf Khan,,0,0,0,0,run out,2,0.0,0,0,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Henry Sussum,,44,23,4,3,ct,3,1.0,0,3,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Ishaan Kundu,,4,5,1,0,ct,4,1.0,0,9,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Jon Lown,,7,11,1,0,b,5,0.0,0,0,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Geoffrey Sussum,,4,7,1,0,ct,6,1.0,0,20,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Alastair Rowe,,3,15,0,0,ct,7,0.0,0,0,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Joe Yerrell,,22,31,4,0,b,8,1.0,0,8,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Freddie Ventham,,4,8,0,0,b,9,1.0,0,24,0,0,2
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Joshua Williams,,5,4,1,0,not out,10,0.3,0,14,0,0,0
+7074471,2025,14/09/2025,Sunday 1st XI,Eleven Allrounders CC,Dave Gwynn-Costello,,0,5,0,0,b,11,1.0,0,13,0,1,1
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Jon Lown,,29,49,5,0,ct,1,0.0,0,0,0,0,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Geoffrey Sussum,,25,20,5,0,b,2,3.0,0,11,0,0,1
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Ted Sussum,,37,23,3,3,b,3,4.0,0,16,0,1,1
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Edward Pike,,26,23,3,1,ct,4,4.2,0,17,1,2,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Kevin Leathers,,2,2,0,0,ct,5,0.0,0,0,0,0,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Henry Sussum,,7,11,1,0,b,6,5.0,2,10,2,0,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Iain Stewart,,12,12,1,1,ct,7,0.0,0,0,0,0,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,R Sridharan,,1,6,0,0,lbw,8,3.0,1,16,3,1,1
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Nick Southworth,,0,5,0,0,b,9,5.0,1,19,0,1,0
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Ishaan Kundu,,2,9,0,0,lbw,10,1.0,0,7,1,0,1
+7074473,2025,21/09/2025,Sunday 1st XI,Sunday 2nd XI,Freddie Ventham,,1,2,0,0,not out,11,5.0,0,26,2,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Jon Lown,,13,29,0,0,b,1,0.0,0,0,0,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Ted Sussum,,71,45,6,4,ct,2,4.0,0,18,1,6,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Ishaan Kundu,,0,3,0,0,lbw,3,1.0,0,27,0,2,1
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Wayne Davies,,14,10,3,0,ct,4,0.0,0,0,0,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Nathan Ellis-Jones,,1,12,0,0,ct,5,0.0,0,0,0,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,5,18,1,0,ct,6,7.0,0,46,1,3,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Iain Stewart,,1,6,0,0,ct,7,0.0,0,0,0,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Nick Southworth,,0,6,0,0,lbw,8,5.0,0,35,1,0,2
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Joe Yerrell,,0,4,0,0,b,9,7.0,2,16,0,0,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Freddie Ventham,,0,2,0,0,not out,10,4.0,0,30,0,1,0
+7074475,2025,28/09/2025,Sunday 1st XI,Friendly XI,Joe Foster,,0,3,0,0,st,11,7.0,0,42,2,3,0

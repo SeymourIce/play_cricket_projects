@@ -1,0 +1,578 @@
+match_id,season,match_date,team_name,opposition_team_name,player_name,player_id,runs_scored,balls_faced,fours,sixes,how_out,batting_position,overs,maidens,runs_conceded,wickets,wides,no_balls
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Jon Lown,,21,55,2,0,not out,1,0.0,0,0,0,0,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,29,40,3,2,b,2,0.0,0,0,0,0,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,32,20,5,1,b,3,0.0,0,0,0,0,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Alastair Rowe,,15,26,3,0,lbw,4,0.0,0,0,0,0,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Joe Yerrell,,4,5,1,0,not out,5,3.0,0,4,1,1,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,James Meek,,0,0,0,0,did not bat,6,3.0,0,15,1,1,2
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Paul Green,,0,0,0,0,did not bat,7,7.0,2,14,0,2,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Joe Foster,,0,0,0,0,did not bat,8,6.0,0,29,2,0,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Charlie Sussum,,0,0,0,0,did not bat,9,4.0,2,8,2,0,3
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Ross Davies,,0,0,0,0,did not bat,10,5.0,1,18,2,2,0
+6538106,2024,21/04/2024,Sunday 1st XI,Friendly XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,11,4.0,1,16,1,0,0
+6244897,2024,27/04/2024,1st XI,Friendly XI,Ted Sussum,,0,0,0,0,,,2.0,0,7,0,0,0
+6244897,2024,27/04/2024,1st XI,Friendly XI,Ed Sussum,,0,0,0,0,,,1.0,0,7,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Raheel Khan,,9,24,2,0,lbw,1,5.0,1,17,3,1,1
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Jon Lown,,30,65,2,1,ct,2,0.0,0,0,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,36,73,5,0,b,3,0.0,0,0,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,25,20,0,2,b,4,3.0,0,14,1,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Yusuf Khan,,57,23,7,4,b,5,0.0,0,0,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Henry Sussum,,4,6,0,0,b,6,4.0,1,8,0,0,3
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Luke Bell,,12,6,2,0,not out,7,4.0,1,12,1,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Alastair Rowe,,1,2,0,0,not out,8,0.0,0,0,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,James Meek,,0,0,0,0,did not bat,9,4.0,0,19,0,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Joe Foster,,0,0,0,0,did not bat,10,6.0,0,31,3,0,0
+6519807,2024,05/05/2024,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,11,5.1,0,28,1,1,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Craig Peterson,,14,19,3,0,ct,1,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Raheel Khan,,26,25,5,0,not out,2,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Lewis Thompson,,11,9,1,1,not out,3,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Max Lee,,0,0,0,0,did not bat,4,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Rob Leybourne,,0,0,0,0,did not bat,5,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Callum Wilson,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Yusuf Khan,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Chris Morris,,0,0,0,0,did not bat,8,6.0,3,9,3,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,9,6.0,2,15,2,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Scott Peterson,,0,0,0,0,did not bat,10,3.4,0,20,2,0,0
+6230251,2024,11/05/2024,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,11,4.0,0,12,3,1,0
+6230974,2024,11/05/2024,2nd XI,4th XI,James Lagdon,,12,0,0,0,b,1,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Ted Sussum,,15,0,0,0,ct,2,6.0,1,10,2,2,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Justin Hutchins,,19,0,0,0,not out,3,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Wayne Davies,,6,0,0,0,not out,4,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Luke Bell,,0,0,0,0,did not bat,5,1.0,0,1,2,1,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Sam Martin,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Ross Davies,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Alastair Rowe,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Kabir Rab,,0,0,0,0,did not bat,10,3.0,0,19,1,1,0
+6230974,2024,11/05/2024,2nd XI,4th XI,Jon Humphreys,,0,0,0,0,did not bat,11,8.0,1,14,5,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Jon Lown,,105,124,13,2,run out,1,0.0,0,0,0,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Raheel Khan,,101,84,17,1,retired not out,2,5.0,0,26,3,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,14,22,2,0,ct,3,0.0,0,0,0,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Yusuf Khan,,24,10,1,2,not out,4,0.0,0,0,0,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,7,2,1,0,not out,5,4.0,1,6,2,1,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Alastair Rowe,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Luke Bell,,0,0,0,0,did not bat,7,4.0,2,2,0,0,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,James Meek,,0,0,0,0,did not bat,8,4.5,0,30,3,2,2
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Joe Yerrell,,0,0,0,0,did not bat,9,8.0,0,34,1,8,1
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,10,7.0,0,44,1,1,0
+6538110,2024,12/05/2024,Sunday 1st XI,Friendly XI,Paul Green,,0,0,0,0,did not bat,11,4.0,0,40,0,2,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Craig Peterson,,40,63,6,0,ct,1,0.0,0,0,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Raheel Khan,,32,60,6,0,b,2,8.0,0,53,2,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Callum Wilson,,9,12,0,1,ct,3,1.0,0,3,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Yusuf Khan,,10,7,1,1,ct,4,0.0,0,0,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Rob Leybourne,,20,21,0,2,ct,5,0.0,0,0,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Ted Sussum,,4,10,0,0,ct,6,0.0,0,0,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Ben Woodbridge,,12,16,2,0,b,7,0.0,0,0,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Chris Morris,,24,24,2,2,not out,8,7.3,1,44,3,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Craig Ottaway,,29,30,2,2,ct,9,8.0,2,34,0,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Scott Peterson,,3,2,0,0,not out,10,6.0,1,21,1,0,0
+6230255,2024,18/05/2024,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,11,8.0,1,36,3,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Iain Stewart,,0,6,0,0,b,1,0.0,0,0,0,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Joe Foster,,16,23,2,0,ct,2,8.0,0,46,1,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Nick Lee,,0,1,0,0,ct,3,0.0,0,0,0,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Geoffrey Sussum,,5,34,1,0,ct,4,0.0,0,0,0,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Kevin Leathers,,0,4,0,0,b,5,2.0,0,24,0,7,1
+6230977,2024,18/05/2024,2nd XI,4th XI,Viral Bhavsar,,12,19,1,1,b,6,6.0,0,31,0,1,1
+6230977,2024,18/05/2024,2nd XI,4th XI,Sam Martin,,17,54,2,0,not out,7,0.0,0,0,0,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Jon Humphreys,,14,38,1,0,ct,8,8.0,1,43,1,1,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Toby Webster,,0,10,0,0,ct,9,0.0,0,0,0,0,0
+6230977,2024,18/05/2024,2nd XI,4th XI,Dave Gwynn-Costello,,1,12,0,0,b,10,8.0,1,49,0,10,1
+6230977,2024,18/05/2024,2nd XI,4th XI,Kabir Rab,,0,1,0,0,b,11,8.0,0,43,0,2,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Raheel Khan,,22,0,0,0,ct,1,7.0,1,21,1,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Henry Sussum,,4,0,0,0,b,2,7.0,1,22,1,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Luke Bell,,3,0,0,0,ct,3,5.0,0,36,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,43,0,0,0,ct,4,0.0,0,0,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Alastair Rowe,,25,0,0,0,b,5,0.0,0,0,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,James Meek,,13,0,0,0,lbw,6,1.0,0,13,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Nathan Ellis-Jones,,6,0,0,0,b,7,0.0,0,0,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Joe Foster,,2,0,0,0,not out,8,7.0,1,37,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Ross Davies,,0,0,0,0,not out,9,4.0,0,17,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,David Peterson,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6538113,2024,19/05/2024,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,11,5.0,0,19,1,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Craig Peterson,,12,24,1,0,ct,1,0.0,0,0,0,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Raheel Khan,,43,59,7,0,b,2,1.1,0,11,1,1,0
+6230262,2024,25/05/2024,1st XI,1st XI,Lewis Thompson,,0,2,0,0,ct,3,3.0,0,26,0,0,1
+6230262,2024,25/05/2024,1st XI,1st XI,Callum Wilson,,23,36,4,0,ct,4,0.1,0,4,0,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Martin Cartledge,,12,21,2,0,ct,5,0.0,0,0,0,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Yusuf Khan,,1,2,0,0,ct,6,0.0,0,0,0,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Ted Sussum,,53,61,9,0,not out,7,2.5,0,12,1,1,0
+6230262,2024,25/05/2024,1st XI,1st XI,Jack Thompson,,20,15,0,1,ct,8,8.0,2,24,1,1,0
+6230262,2024,25/05/2024,1st XI,1st XI,Craig Ottaway,,0,1,0,0,b,9,8.0,1,19,6,1,1
+6230262,2024,25/05/2024,1st XI,1st XI,Joe Yerrell,,20,23,3,0,not out,10,6.0,3,21,1,0,0
+6230262,2024,25/05/2024,1st XI,1st XI,Graham Comper,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Luke Bell,,45,0,0,0,ct,1,6.0,0,34,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Justin Hutchins,,4,0,0,0,ct,2,3.0,0,21,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Alastair Rowe,,18,0,0,0,ct,3,0.0,0,0,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Geoffrey Sussum,,16,0,0,0,b,4,4.0,0,23,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Viral Bhavsar,,24,0,0,0,ct,5,5.0,0,27,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,James Meek,,5,0,0,0,b,6,5.0,0,39,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Kevin Leathers,,12,0,0,0,ct,7,2.3,0,12,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Zach Ghosh,,5,0,0,0,b,8,0.0,0,0,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Toby Webster,,1,0,0,0,run out,9,0.0,0,0,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,Karl Harris,,9,0,0,0,b,10,0.0,0,0,0,0,0
+6230981,2024,25/05/2024,2nd XI,3rd XI,David Peterson,,0,0,0,0,not out,11,0.0,0,0,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Jon Lown,,6,20,0,0,ct,1,0.0,0,0,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Ted Sussum,,33,36,2,0,ct,2,0.0,0,0,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Raheel Khan,,0,1,0,0,lbw,3,2.0,1,1,2,1,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Geoffrey Sussum,,14,44,1,0,ct,4,0.0,0,0,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Alastair Rowe,,0,9,0,0,ct,5,5.0,1,21,1,0,1
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,James Lagdon,,4,17,1,0,lbw,6,4.0,2,7,1,0,1
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Henry Sussum,,50,30,5,2,not out,7,6.0,1,7,3,1,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Nathan Ellis-Jones,,50,31,4,3,not out,8,0.0,0,0,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Luke Bell,,0,0,0,0,did not bat,9,6.0,2,16,1,2,1
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Joe Yerrell,,0,0,0,0,did not bat,10,4.0,2,5,0,0,0
+6538115,2024,26/05/2024,Sunday 1st XI,1st XI,Toby Webster,,0,0,0,0,did not bat,11,3.0,0,21,1,4,3
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Craig Peterson,,72,62,4,2,b,1,0.0,0,0,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Lewis Thompson,,27,20,3,1,ct,2,3.0,0,20,1,1,1
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Rob Leybourne,,17,25,1,0,ct,3,0.0,0,0,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Ted Sussum,,10,8,1,0,b,4,0.0,0,0,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Wayne Davies,,3,5,0,0,b,5,0.0,0,0,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Henry Sussum,,1,1,0,0,not out,6,2.0,0,15,1,2,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Kevin Leathers,,0,1,0,0,not out,7,2.0,0,26,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Chris Morris,,0,0,0,0,did not bat,8,3.0,0,11,0,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Craig Ottaway,,0,0,0,0,did not bat,9,3.0,0,4,2,0,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Kabir Rab,,0,0,0,0,did not bat,10,3.0,0,28,1,2,0
+6364164,2024,28/05/2024,Midweek XI,Chorleywood,Jonny Carpenter,,0,0,0,0,did not bat,11,4.0,0,28,2,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Raheel Khan,,39,74,6,0,lbw,1,8.0,3,13,3,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Ben Woodbridge,,1,11,0,0,b,2,0.0,0,0,0,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Lewis Thompson,,28,36,1,1,ct,3,8.0,2,18,1,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Rob Leybourne,,22,44,0,1,ct,4,0.0,0,0,0,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Ted Sussum,,6,7,0,0,b,5,0.0,0,0,0,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Yusuf Khan,,27,21,3,1,ct,6,0.0,0,0,0,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Craig Ottaway,,24,35,1,0,ct,7,0.0,0,0,0,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Jack Thompson,,24,16,0,2,ct,8,4.0,0,13,1,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Jonny Carpenter,,1,2,0,0,not out,9,5.0,2,9,1,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Scott Peterson,,0,0,0,0,did not bat,10,4.0,0,13,1,0,0
+6230266,2024,01/06/2024,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,11,5.0,0,18,1,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Luke Bell,,5,13,1,0,b,1,4.0,1,15,1,1,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,James Lagdon,,5,9,0,0,b,2,6.0,0,11,3,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Geoffrey Sussum,,28,72,4,0,ct,3,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Wayne Davies,,0,10,0,0,b,4,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Sam Martin,,1,12,0,0,ct,5,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Alastair Rowe,,4,21,0,0,b,6,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Jon Humphreys,,6,15,1,0,ct,7,3.0,0,20,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Toby Webster,,0,1,0,0,b,8,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Zach Ghosh,,0,7,0,0,b,9,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,David Peterson,,4,23,0,0,ct,10,0.0,0,0,0,0,0
+6230988,2024,01/06/2024,2nd XI,3rd XI,Kabir Rab,,6,21,1,0,not out,11,4.1,0,12,0,0,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Jon Lown,,22,57,2,0,ct,1,0.0,0,0,0,0,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Kevin Leathers,,21,29,3,0,ct,2,0.0,0,0,0,0,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Joe Yerrell,,8,16,0,0,ct,3,4.0,0,19,0,12,1
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Ted Sussum,,2,13,0,0,b,4,4.0,0,12,0,3,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Nathan Ellis-Jones,,2,3,0,0,run out,5,0.0,0,0,0,0,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Geoffrey Sussum,,23,32,4,0,ct,6,0.0,0,0,0,0,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,James Meek,,0,2,0,0,b,7,5.0,0,31,2,5,2
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Joe Foster,,1,13,0,0,b,8,7.0,0,29,1,2,0
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Ross Davies,,0,2,0,0,b,9,5.0,0,24,1,11,1
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Alastair Rowe,,0,2,0,0,lbw,10,3.0,0,22,0,1,1
+6538119,2024,02/06/2024,Sunday 1st XI,Hermingford Hermits,Kabir Rab,,0,0,0,0,not out,11,7.0,2,11,4,2,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Craig Peterson,,130,113,19,1,ct,1,5.0,1,10,0,0,1
+6230273,2024,08/06/2024,1st XI,3rd XI,Raheel Khan,,114,116,16,1,not out,2,0.0,0,0,0,0,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Lewis Thompson,,23,14,4,0,not out,3,4.0,0,18,0,3,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Max Lee,,0,0,0,0,did not bat,4,1.0,0,3,0,3,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Rob Leybourne,,0,0,0,0,did not bat,5,7.0,2,23,3,3,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Yusuf Khan,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Ted Sussum,,0,0,0,0,did not bat,7,7.3,2,27,1,1,1
+6230273,2024,08/06/2024,1st XI,3rd XI,Ben Woodbridge,,0,0,0,0,did not bat,8,0.0,0,0,0,0,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Craig Ottaway,,0,0,0,0,did not bat,9,8.0,6,5,1,0,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Jonny Carpenter,,0,0,0,0,did not bat,10,1.3,0,4,0,0,0
+6230273,2024,08/06/2024,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,11,6.0,1,21,2,4,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,James Lagdon,,31,74,4,0,b,1,3.0,0,22,0,2,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Geoffrey Sussum,,5,18,1,0,b,2,3.5,0,16,1,1,1
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Justin Hutchins,,16,26,3,0,b,3,0.0,0,0,0,0,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,James Webster,,56,26,7,4,st,4,0.0,0,0,0,0,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Joe Foster,,4,10,1,0,ct,5,8.0,0,39,0,0,3
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Sam Martin,,3,20,0,0,ct,6,0.0,0,0,0,0,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Jamie Valentine,,13,28,2,0,b,7,3.0,0,25,0,1,3
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Viral Bhavsar,,11,23,1,0,ct,8,5.0,1,13,3,1,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Toby Webster,,1,5,0,0,ct,9,0.0,0,0,0,0,0
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Dave Gwynn-Costello,,4,5,1,0,b,10,8.0,0,29,0,6,1
+6230990,2024,08/06/2024,2nd XI,Saturday 4th XI,Kabir Rab,,0,3,0,0,not out,11,8.0,1,21,2,1,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Jon Lown,,30,63,3,0,ct,1,0.0,0,0,0,0,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Ted Sussum,,32,37,6,0,ct,2,8.0,0,39,1,1,2
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Luke Bell,,4,8,1,0,b,3,2.0,0,17,0,0,1
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Kevin Leathers,,7,12,1,0,b,4,0.0,0,0,0,0,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Geoffrey Sussum,,18,52,1,0,b,5,0.0,0,0,0,0,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Rob Sussum,,0,1,0,0,st,6,8.0,0,50,0,3,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,James Meek,,5,5,1,0,b,7,4.0,0,22,2,0,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,David Peterson,,5,22,1,0,ct,8,0.0,0,0,0,0,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Ross Davies,,0,3,0,0,b,9,4.0,0,33,0,2,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Joe Foster,,4,12,1,0,not out,10,4.0,0,46,0,1,0
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Rhys Final,,0,6,0,0,b,11,7.0,0,50,3,8,2
+6399706,2024,16/06/2024,Sunday 1st XI,Sunday XI,Charlie Sussum,,0,0,0,0,did not bat,12,3.0,0,29,0,4,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Lewis Thompson,,0,1,0,0,ct,1,3.0,0,29,1,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Raheel Khan,,59,47,5,2,ct,2,2.0,0,10,0,1,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Rob Leybourne,,33,28,3,1,ct,3,1.0,0,3,0,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Yusuf Khan,,20,12,0,2,b,4,0.0,0,0,0,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Ted Sussum,,1,5,0,0,b,5,3.0,0,18,1,5,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Geoffrey Sussum,,1,5,0,0,b,6,1.2,0,15,0,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,James Webster,,6,3,0,1,ct,7,0.0,0,0,0,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,James Meek,,4,9,0,0,retired not out,8,0.0,0,0,0,0,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Joe Yerrell,,4,8,0,0,not out,9,2.0,0,25,0,6,0
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Archie Bellamy,,3,2,0,0,not out,10,3.0,0,21,0,1,1
+6364165,2024,18/06/2024,Midweek XI,Chorleywood,Kabir Rab,,0,0,0,0,did not bat,11,2.0,0,20,1,1,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Craig Peterson,,62,75,10,1,ct,1,0.0,0,0,0,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Raheel Khan,,52,75,8,0,ct,2,5.0,1,12,1,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Lewis Thompson,,5,14,0,0,b,3,3.0,0,22,1,4,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Rob Leybourne,,0,3,0,0,lbw,4,0.0,0,0,0,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Ted Sussum,,6,19,1,0,ct,5,1.2,1,0,2,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Yusuf Khan,,0,5,0,0,b,6,0.0,0,0,0,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Ben Woodbridge,,8,22,0,0,not out,7,0.0,0,0,0,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Jack Thompson,,1,8,0,0,not out,8,6.0,0,25,2,4,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Chris Morris,,0,0,0,0,did not bat,9,8.0,3,36,2,2,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,10,8.0,2,23,0,0,0
+6230283,2024,22/06/2024,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,11,5.0,1,22,1,0,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Steve Jones,,13,24,3,0,b,1,0.0,0,0,0,0,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Geoffrey Sussum,,45,110,4,0,not out,2,0.0,0,0,0,0,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Kevin Leathers,,6,10,1,0,b,3,3.0,0,22,1,3,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Justin Hutchins,,12,23,2,0,lbw,4,0.0,0,0,0,0,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Viral Bhavsar,,7,16,0,0,b,5,7.0,0,27,2,3,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Jon Humphreys,,34,59,4,0,not out,6,8.0,5,9,1,1,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,James Lagdon,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Ross Davies,,0,0,0,0,did not bat,8,3.0,0,30,0,7,2
+6231001,2024,22/06/2024,2nd XI,2nd XI,Kabir Rab,,0,0,0,0,did not bat,9,8.0,0,44,0,2,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Ronnie Richards,,0,0,0,0,did not bat,10,3.0,0,26,1,7,0
+6231001,2024,22/06/2024,2nd XI,2nd XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,11,8.0,1,47,1,10,2
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Raheel Khan,,13,14,3,0,b,1,8.0,0,45,0,4,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,59,68,8,1,ct,2,6.0,0,51,1,4,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Henry Sussum,,131,103,13,7,b,3,8.0,1,47,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,James Webster,,5,9,0,0,st,4,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Iain Stewart,,4,11,1,0,ct,5,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,1,6,0,0,ct,6,6.0,0,52,2,7,1
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Kevin Leathers,,16,32,1,1,run out,7,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Ross Davies,,0,1,0,0,not out,8,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Toby Webster,,0,3,0,0,b,9,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,David Peterson,,0,2,0,0,not out,10,0.0,0,0,0,0,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,11,8.0,0,26,0,4,0
+6538122,2024,23/06/2024,Sunday 1st XI,Friendly XI,Max Final,,0,0,0,0,,,1.3,0,19,0,2,1
+6230285,2024,29/06/2024,1st XI,2nd XI,Raheel Khan,,61,109,5,0,ct,1,8.0,0,20,2,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Yusuf Khan,,11,13,1,0,ct,2,0.0,0,0,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Lewis Thompson,,27,46,4,0,b,3,3.0,0,16,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Rob Leybourne,,0,1,0,0,ct,4,1.0,0,4,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Ben Woodbridge,,0,6,0,0,run out,5,0.0,0,0,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Iain Stewart,,5,19,0,0,b,6,0.0,0,0,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Ted Sussum,,2,8,0,0,ct,7,6.0,0,35,1,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Craig Ottaway,,0,2,0,0,lbw,8,6.0,0,30,2,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Jonny Carpenter,,6,13,1,0,b,9,5.0,1,13,1,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Freddie Ventham,,0,9,0,0,b,10,0.0,0,0,0,0,0
+6230285,2024,29/06/2024,1st XI,2nd XI,Ross Davies,,0,4,0,0,not out,11,0.0,0,0,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Justin Hutchins,,53,70,5,4,b,1,0.0,0,0,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Geoffrey Sussum,,67,95,15,0,b,2,6.0,0,41,1,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Viral Bhavsar,,17,21,3,0,ct,3,6.0,0,44,1,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Wayne Davies,,51,28,8,2,ct,4,0.0,0,0,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Ishaan Kundu,,16,24,1,0,not out,5,1.0,0,18,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Sam Martin,,9,9,0,1,run out,6,0.0,0,0,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Joe Foster,,0,2,0,0,not out,7,4.0,0,36,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Jon Humphreys,,0,0,0,0,did not bat,8,8.0,3,29,2,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Alastair Rowe,,0,0,0,0,did not bat,9,0.0,0,0,0,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,6.5,0,29,6,0,0
+6231007,2024,29/06/2024,2nd XI,3rd XI,David Peterson,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Jon Lown,,43,89,4,1,ct,1,0.0,0,0,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Ted Sussum,,16,18,2,0,ct,2,5.0,1,9,1,2,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Henry Sussum,,26,28,2,1,b,3,5.0,0,23,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,James Webster,,30,17,2,3,b,4,0.0,0,0,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Alastair Rowe,,27,22,3,1,ct,5,0.0,0,0,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Geoffrey Sussum,,17,28,2,1,ct,6,0.0,0,0,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Jamie Valentine,,1,4,0,0,ct,7,5.0,0,28,1,3,1
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Archie Bellamy,,2,4,0,0,not out,8,2.4,0,16,0,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Ross Davies,,0,1,0,0,run out,9,4.0,0,22,0,4,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Joe Foster,,0,2,0,0,run out,10,4.0,0,38,1,0,0
+6283319,2024,30/06/2024,Sunday 1st XI,Sunday Friendly XI,Kabir Rab,,0,2,0,0,not out,11,4.0,0,38,1,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Raheel Khan,,58,90,8,0,ct,1,5.0,0,21,3,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Yusuf Khan,,28,26,6,0,ct,2,0.0,0,0,0,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Lewis Thompson,,25,34,3,1,ct,3,5.3,1,16,1,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Callum Wilson,,52,30,6,2,b,4,0.0,0,0,0,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Rob Leybourne,,33,20,4,1,run out,5,0.0,0,0,0,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Ben Woodbridge,,1,3,0,0,ct,6,0.0,0,0,0,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Iain Stewart,,0,1,0,0,ct,7,0.0,0,0,0,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Ted Sussum,,6,6,0,0,not out,8,7.0,1,22,1,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,9,8.0,3,19,1,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,10,7.0,3,13,2,0,0
+6230297,2024,13/07/2024,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,11,6.0,0,24,2,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,James Lagdon,,13,46,1,0,b,1,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Geoffrey Sussum,,27,47,5,0,b,2,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Justin Hutchins,,2,4,0,0,ct,3,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Wayne Davies,,77,54,8,4,b,4,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Luke Bell,,54,51,7,1,ct,5,6.0,0,18,0,3,1
+6231017,2024,13/07/2024,2nd XI,4th XI,Jamie Valentine,,10,25,1,0,ct,6,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Joe Foster,,0,3,0,0,ct,7,6.1,0,39,2,1,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Jon Humphreys,,0,3,0,0,b,8,8.0,3,30,6,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Sam Martin,,9,9,1,0,not out,9,0.0,0,0,0,0,0
+6231017,2024,13/07/2024,2nd XI,4th XI,Dave Gwynn-Costello,,5,3,1,0,ct,10,6.0,0,45,1,4,1
+6231017,2024,13/07/2024,2nd XI,4th XI,Kabir Rab,,0,0,0,0,did not bat,11,8.0,1,17,1,4,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Raheel Khan,,100,69,13,5,retired not out,1,7.0,0,30,3,1,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Jon Lown,,72,80,9,1,not out,2,0.0,0,0,0,0,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Kevin Leathers,,15,7,0,2,not out,3,0.0,0,0,0,0,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Ted Sussum,,0,0,0,0,did not bat,4,7.0,0,43,0,2,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Geoffrey Sussum,,0,0,0,0,did not bat,5,3.4,1,19,1,0,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Ross Davies,,0,0,0,0,did not bat,6,7.0,1,16,2,9,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Ray McHugh,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Ben Moultrie-Ford,,0,0,0,0,did not bat,8,3.0,0,10,2,0,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,Joe Yerrell,,0,0,0,0,did not bat,9,5.0,0,34,1,1,0
+6538125,2024,14/07/2024,Sunday 1st XI,1st XI,M Abeyawick,,0,0,0,0,did not bat,10,2.0,0,29,1,9,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Justin Hutchins,,43,0,0,0,ct,1,1.0,0,8,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Geoffrey Sussum,,8,0,0,0,b,2,5.0,0,36,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Viral Bhavsar,,14,0,0,0,ct,3,5.0,1,41,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Wayne Davies,,44,0,0,0,b,4,0.0,0,0,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Ishaan Kundu,,0,0,0,0,ct,5,0.0,0,0,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Sam Martin,,11,0,0,0,ct,6,0.0,0,0,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Ross Davies,,10,0,0,0,b,7,0.0,0,0,0,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Joe Foster,,4,0,0,0,b,8,8.0,0,54,1,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Jon Humphreys,,5,0,0,0,ct,9,8.0,0,38,1,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Dave Gwynn-Costello,,0,0,0,0,ct,10,5.0,0,29,1,0,0
+6231022,2024,20/07/2024,2nd XI,4th XI,Kabir Rab,,0,0,0,0,not out,11,8.0,2,40,1,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Craig Peterson,,128,107,18,4,b,1,0.1,0,1,0,1,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Raheel Khan,,29,49,4,0,ct,2,5.0,0,25,4,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Lewis Thompson,,14,18,2,0,ct,3,2.0,0,26,0,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Ben Moultrie-Ford,,36,34,4,1,b,4,3.5,0,19,1,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Yusuf Khan,,4,7,1,0,ct,5,0.0,0,0,0,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Ben Woodbridge,,7,13,1,0,st,6,0.0,0,0,0,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Ted Sussum,,8,11,0,0,not out,7,4.0,0,39,0,0,3
+6230301,2024,20/07/2024,1st XI,3rd XI,Craig Ottaway,,4,3,1,0,not out,8,8.0,2,18,2,1,1
+6230301,2024,20/07/2024,1st XI,3rd XI,Chris Morris,,0,0,0,0,did not bat,9,7.0,0,35,2,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,10,5.0,1,25,0,0,0
+6230301,2024,20/07/2024,1st XI,3rd XI,Ben Eckersley,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Jon Lown,,104,124,14,3,not out,1,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Ted Sussum,,27,26,5,0,ct,2,6.1,1,24,3,0,4
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Iain Stewart,,14,52,2,0,b,3,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Geoffrey Sussum,,41,37,8,0,run out,4,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Nathan Ellis-Jones,,4,2,1,0,b,5,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Kevin Leathers,,0,0,0,0,did not bat,6,3.0,0,27,0,3,1
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Alastair Rowe,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Scott Peterson,,0,0,0,0,did not bat,8,5.0,2,6,2,1,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Vinod Malwenna,,0,0,0,0,did not bat,9,5.0,0,31,1,0,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Joe Foster,,0,0,0,0,did not bat,10,5.0,1,17,2,6,0
+6364117,2024,21/07/2024,Sunday 1st XI,Sunday XI,Kabir Rab,,0,0,0,0,did not bat,11,5.0,0,38,2,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Justin Hutchins,,105,117,14,3,b,1,0.0,0,0,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Geoffrey Sussum,,4,13,0,0,b,2,1.5,0,10,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Ted Sussum,,2,9,0,0,b,3,8.0,0,39,2,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Wayne Davies,,8,19,0,0,b,4,0.0,0,0,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,James Webster,,54,17,4,6,st,5,0.0,0,0,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Sam Martin,,22,64,2,0,not out,6,0.0,0,0,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Ishaan Kundu,,1,1,0,0,not out,7,2.0,0,20,0,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Joe Foster,,0,0,0,0,did not bat,8,8.0,1,30,1,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Archie Bellamy,,0,0,0,0,did not bat,9,8.0,1,39,1,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Ronnie Richards,,0,0,0,0,did not bat,10,6.0,0,40,1,0,0
+6231027,2024,27/07/2024,2nd XI,3rd XI,Rhys Final,,0,0,0,0,did not bat,11,5.0,0,26,3,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Raheel Khan,,69,88,7,2,not out,1,6.0,0,19,2,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Yusuf Khan,,36,36,6,1,ct,2,0.0,0,0,0,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Lewis Thompson,,26,36,3,1,st,3,7.0,0,23,1,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Callum Wilson,,12,17,1,0,b,4,0.0,0,0,0,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Rob Leybourne,,0,3,0,0,not out,5,5.0,0,30,1,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Iain Stewart,,0,0,0,0,did not bat,6,0.0,0,0,0,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Craig Ottaway,,0,0,0,0,did not bat,7,8.0,0,43,2,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Jack Thompson,,0,0,0,0,did not bat,8,8.0,4,12,1,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Joe Yerrell,,0,0,0,0,did not bat,9,6.0,1,24,1,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Freddie Ventham,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6230306,2024,27/07/2024,1st XI,1st XI,Dan Newton,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Jon Lown,,1,7,0,0,b,1,0.0,0,0,0,0,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Raheel Khan,,136,105,24,1,retired not out,2,8.0,0,37,0,2,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Ted Sussum,,79,71,13,0,ct,3,8.0,0,59,2,1,4
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,S Kundu,,0,2,0,0,b,4,4.0,0,26,0,0,1
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Geoffrey Sussum,,4,17,0,0,lbw,5,0.0,0,0,0,0,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,James Lagdon,,24,20,5,0,ct,6,5.0,0,64,2,0,1
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Alastair Rowe,,13,16,2,0,ct,7,0.0,0,0,0,0,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Charlie Sussum,,0,5,0,0,not out,8,2.2,0,30,0,1,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Viral Bhavsar,,0,0,0,0,run out,9,1.0,0,4,1,0,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Ishaan Kundu,,0,1,0,0,ct,10,4.0,0,27,1,1,0
+6538126,2024,28/07/2024,Sunday 1st XI,1st XI,Jamie Valentine,,0,0,0,0,did not bat,11,3.0,0,35,0,0,2
+6230313,2024,03/08/2024,1st XI,3rd XI,Craig Peterson,,0,5,0,0,ct,1,4.0,0,21,1,1,2
+6230313,2024,03/08/2024,1st XI,3rd XI,Raheel Khan,,14,25,2,0,ct,2,8.0,3,17,2,0,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Oliver Runswick,,8,11,2,0,ct,3,0.0,0,0,0,0,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Lewis Thompson,,0,3,0,0,ct,4,8.0,1,37,1,1,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Callum Wilson,,27,40,2,0,run out,5,0.0,0,0,0,0,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Rob Leybourne,,60,76,10,0,ct,6,0.0,0,0,0,0,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Yusuf Khan,,6,9,1,0,b,7,0.0,0,0,0,0,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Craig Ottaway,,10,16,1,0,ct,8,8.0,1,43,1,1,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Jonny Carpenter,,7,12,1,0,b,9,8.0,2,29,4,5,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Joe Yerrell,,7,29,0,0,ct,10,4.0,1,12,0,1,0
+6230313,2024,03/08/2024,1st XI,3rd XI,Freddie Ventham,,0,4,0,0,not out,11,0.0,0,0,0,0,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Ted Sussum,,4,10,0,0,b,1,8.0,2,18,2,4,2
+6231033,2024,03/08/2024,2nd XI,3rd XI,Geoffrey Sussum,,7,24,0,0,b,2,8.0,1,34,1,4,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Nathan Ellis-Jones,,0,7,0,0,ct,3,4.0,0,31,1,0,2
+6231033,2024,03/08/2024,2nd XI,3rd XI,Wayne Davies,,6,20,0,0,ct,4,0.0,0,0,0,0,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,James Webster,,8,9,2,0,b,5,0.0,0,0,0,0,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Kevin Leathers,,0,1,0,0,ct,6,5.0,0,35,1,2,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Viral Bhavsar,,2,8,0,0,ct,7,3.0,0,40,0,2,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Ross Davies,,5,6,1,0,b,8,4.0,0,27,1,3,1
+6231033,2024,03/08/2024,2nd XI,3rd XI,Joe Foster,,1,8,0,0,b,9,8.0,1,34,1,0,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,David Peterson,,1,8,0,0,ct,10,0.0,0,0,0,0,0
+6231033,2024,03/08/2024,2nd XI,3rd XI,Toby Webster,,4,5,0,0,not out,11,0.0,0,0,0,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Jon Lown,,7,30,1,0,ct,1,0.0,0,0,0,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Kevin Leathers,,1,7,0,0,b,2,0.0,0,0,0,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Ted Sussum,,64,63,13,0,ct,3,7.0,2,22,2,5,2
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Geoffrey Sussum,,36,42,4,1,ct,4,0.3,0,6,1,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Ian Stuart,,0,8,0,0,b,5,0.0,0,0,0,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Joe Yerrell,,12,15,2,0,ct,6,7.0,3,6,1,1,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Alastair Rowe,,10,15,0,1,not out,7,0.0,0,0,0,0,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Toby Webster,,1,2,0,0,not out,8,3.0,0,12,1,4,2
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Archie Bellamy,,0,0,0,0,did not bat,9,7.0,3,25,2,1,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Ross Davies,,0,0,0,0,did not bat,10,3.0,0,18,1,9,0
+6233606,2024,04/08/2024,Sunday 1st XI,Sunday XI,Joe Foster,,0,0,0,0,did not bat,11,7.0,1,38,2,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Craig Peterson,,15,33,1,0,b,1,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Raheel Khan,,40,61,7,0,b,2,6.2,1,16,4,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Ted Sussum,,19,43,2,0,ct,3,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Callum Wilson,,20,35,2,0,b,4,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Ben Woodbridge,,1,2,0,0,ct,5,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Yusuf Khan,,31,32,2,1,ct,6,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Iain Stewart,,8,12,1,0,b,7,0.0,0,0,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Craig Ottaway,,2,8,0,0,b,8,8.0,2,12,1,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Jonny Carpenter,,0,8,0,0,b,9,6.0,0,21,0,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Scott Peterson,,1,3,0,0,not out,10,8.0,0,37,2,0,0
+6230318,2024,10/08/2024,1st XI,3rd XI,Joe Yerrell,,9,7,1,0,not out,11,8.0,0,50,2,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Justin Hutchins,,6,18,1,0,b,1,0.0,0,0,0,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Geoffrey Sussum,,13,27,2,0,b,2,7.5,0,42,2,6,2
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Luke Bell,,51,39,7,3,ct,3,8.0,0,44,1,1,1
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Viral Bhavsar,,4,20,0,0,b,4,0.0,0,0,0,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Kevin Leathers,,25,22,2,2,b,5,1.0,0,9,0,5,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Jon Humphreys,,31,51,4,1,b,6,8.0,2,24,1,1,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Ishaan Kundu,,7,17,1,0,ct,7,0.0,0,0,0,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Sam Martin,,15,35,0,0,not out,8,0.0,0,0,0,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Joe Foster,,18,13,3,0,ct,9,8.0,0,35,2,1,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Toby Webster,,1,3,0,0,not out,10,0.0,0,0,0,0,0
+6231038,2024,10/08/2024,2nd XI,Saturday 4th XI,Archie Bellamy,,0,0,0,0,did not bat,11,7.0,0,37,2,6,2
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Raheel Khan,,119,124,16,3,not out,1,2.0,0,15,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Ted Sussum,,1,7,0,0,b,2,8.0,0,35,1,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Yusuf Khan,,21,14,5,0,ct,3,0.0,0,0,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Geoffrey Sussum,,8,22,1,0,ct,4,0.1,0,4,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,James Lagdon,,6,16,1,0,ct,5,1.0,0,13,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,James Webster,,6,3,0,1,ct,6,1.0,0,4,1,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Sanjeeb Kundu,,4,5,1,0,st,7,1.0,0,16,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Joe Foster,,0,3,0,0,b,8,8.0,0,55,0,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Joe Yerrell,,15,32,2,0,b,9,8.0,1,47,2,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Toby Webster,,0,3,0,0,b,10,1.0,0,2,1,0,0
+6538127,2024,11/08/2024,Sunday 1st XI,1st XI,Freddie Ventham,,0,2,0,0,not out,11,1.0,0,10,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Craig Peterson,,107,96,9,4,ct,1,0.0,0,0,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Raheel Khan,,65,67,9,1,b,2,3.0,1,3,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Oliver Runswick,,21,30,2,0,ct,3,0.0,0,0,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Max Lee,,21,22,1,0,not out,4,0.0,0,0,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Callum Wilson,,53,27,7,1,not out,5,0.0,0,0,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Rob Leybourne,,0,0,0,0,did not bat,6,1.5,1,4,1,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Yusuf Khan,,0,0,0,0,did not bat,7,0.0,0,0,0,0,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Ted Sussum,,0,0,0,0,did not bat,8,5.0,0,24,2,4,3
+6230323,2024,17/08/2024,1st XI,3rd XI,Craig Ottaway,,0,0,0,0,did not bat,9,8.0,0,53,1,2,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Scott Peterson,,0,0,0,0,did not bat,10,8.0,2,31,3,3,0
+6230323,2024,17/08/2024,1st XI,3rd XI,Joe Yerrell,,0,0,0,0,did not bat,11,6.0,0,22,2,3,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Sam Martin,,39,110,4,0,ct,1,0.0,0,0,0,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Luke Bell,,19,34,3,0,ct,2,8.1,0,43,1,2,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Wayne Davies,,40,53,5,0,ct,3,0.0,0,0,0,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Stuart Maddock,,23,18,5,0,ct,4,0.0,0,0,0,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Geoffrey Sussum,,1,3,0,0,retired not out,5,6.2,0,30,5,1,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Jon Humphreys,,7,12,1,0,not out,6,8.0,0,37,1,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Ishaan Kundu,,1,5,0,0,run out,7,1.0,0,17,0,1,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Toby Webster,,0,1,0,0,b,8,0.0,0,0,0,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Ronnie Richards,,5,9,0,0,not out,9,8.0,0,45,1,8,1
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,David Peterson,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6231042,2024,17/08/2024,2nd XI,Saturday 3rd XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,11,7.0,0,37,1,5,1
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Rob Leybourne,,46,46,9,1,ct,1,7.0,0,34,2,1,1
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Jon Lown,,15,47,1,0,ct,2,0.0,0,0,0,0,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Yusuf Khan,,74,43,9,4,ct,3,0.0,0,0,0,0,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Ishaan Kundu,,1,10,0,0,b,4,0.0,0,0,0,0,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Ted Sussum,,43,34,6,1,b,5,6.0,1,26,0,1,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Kevin Leathers,,3,8,0,0,b,6,0.0,0,0,0,0,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Alastair Rowe,,16,20,3,0,not out,7,0.0,0,0,0,0,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,S Kundu,,4,7,1,0,not out,8,3.0,0,24,1,3,1
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Joe Foster,,0,0,0,0,did not bat,9,7.0,1,47,2,2,0
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Archie Bellamy,,0,0,0,0,did not bat,10,7.0,0,63,1,9,2
+6538128,2024,18/08/2024,Sunday 1st XI,Sunday 1st XI,Kabir Rab,,0,0,0,0,did not bat,11,5.0,1,20,0,4,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Ted Sussum,,65,61,12,0,b,1,6.0,0,42,0,2,1
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Yusuf Khan,,34,25,5,1,b,2,0.0,0,0,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Raheel Khan,,27,22,4,0,b,3,7.0,1,48,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Rob Leybourne,,2,9,0,0,b,4,5.5,0,41,0,1,1
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,James Lagdon,,44,55,8,0,ct,5,0.0,0,0,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Kevin Leathers,,0,2,0,0,ct,6,0.0,0,0,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Ishaan Kundu,,20,48,0,0,not out,7,0.0,0,0,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Chris Morris,,38,20,6,1,not out,8,7.0,0,67,0,0,1
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Joe Foster,,0,0,0,0,did not bat,9,4.0,0,21,1,4,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,David Peterson,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6281193,2024,27/08/2024,Midweek XI,Bucks Tour XI,Kabir Rab,,0,0,0,0,did not bat,11,8.0,1,33,3,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Oliver Runswick,,53,68,8,0,ct,1,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Raheel Khan,,38,52,3,0,b,2,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Max Lee,,36,58,3,0,not out,3,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Lewis Thompson,,11,12,2,0,ct,4,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Yusuf Khan,,41,38,5,0,ct,5,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Ted Sussum,,2,3,0,0,ct,6,4.0,3,2,5,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Craig Ottaway,,5,9,0,0,not out,7,8.0,2,15,2,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Chris Morris,,0,0,0,0,did not bat,8,6.0,1,22,1,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,9,5.0,1,24,2,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,10,0.0,0,0,0,0,0
+6230333,2024,31/08/2024,1st XI,2nd XI,Paul Green,,0,0,0,0,did not bat,11,1.0,0,6,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Luke Bell,,12,0,2,0,ct,1,8.0,0,33,3,7,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Toby Webster,,0,0,0,0,b,2,0.0,0,0,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Geoffrey Sussum,,28,0,4,0,ct,3,4.0,0,25,0,3,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Alastair Rowe,,1,0,0,0,ct,4,0.0,0,0,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Jamie Valentine,,2,0,0,0,b,5,3.0,0,26,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Jon Humphreys,,15,0,2,1,ct,6,8.0,1,28,1,1,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Ishaan Kundu,,5,0,0,0,ct,7,0.0,0,0,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Viral Bhavsar,,5,0,0,0,ct,8,8.0,0,42,0,0,1
+6231052,2024,31/08/2024,2nd XI,3rd XI,Sam Martin,,4,0,1,0,ct,9,1.0,0,7,0,1,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,James Meek,,6,0,1,0,not out,10,0.0,0,0,0,0,0
+6231052,2024,31/08/2024,2nd XI,3rd XI,Dave Gwynn-Costello,,1,0,0,0,ct,11,8.0,0,45,2,5,3
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Ted Sussum,,100,65,16,2,retired not out,1,4.0,1,12,1,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Geoffrey Sussum,,100,87,15,3,retired not out,2,1.0,0,1,3,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Yusuf Khan,,32,23,4,0,ct,3,0.0,0,0,0,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Kevin Leathers,,5,7,1,0,lbw,4,4.0,2,5,1,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,AE Godwin,,12,8,1,1,st,5,0.0,0,0,0,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Luke Bell,,3,5,0,0,ct,6,4.0,2,10,1,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Iain Stewart,,9,15,1,0,ct,7,0.0,0,0,0,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Henry Sussum,,4,5,1,0,lbw,8,4.0,0,12,0,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Ishaan Kundu,,5,7,0,0,not out,9,4.0,0,23,1,1,1
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Toby Webster,,2,3,0,0,not out,10,7.0,1,27,2,5,4
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Kabir Rab,,0,0,0,0,did not bat,11,4.0,2,11,0,0,0
+6538129,2024,01/09/2024,Sunday 1st XI,Sunday 1st XI,Ed Sussum,,0,0,0,0,,,1.0,0,7,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Craig Peterson,,105,88,18,0,ct,1,5.0,0,40,1,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Justin Hutchins,,35,29,2,3,b,2,0.0,0,0,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Ted Sussum,,6,19,1,0,b,3,7.0,0,32,0,4,3
+6231057,2024,07/09/2024,2nd XI,6th XI,Wayne Davies,,0,1,0,0,b,4,0.0,0,0,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Geoffrey Sussum,,14,29,2,0,retired not out,5,8.0,1,49,1,0,2
+6231057,2024,07/09/2024,2nd XI,6th XI,Jon Humphreys,,8,17,1,0,ct,6,8.0,5,8,3,1,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Viral Bhavsar,,0,5,0,0,b,7,0.0,0,0,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Sam Martin,,4,17,1,0,not out,8,0.0,0,0,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Joe Foster,,2,12,0,0,not out,9,2.0,0,10,0,0,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Dave Gwynn-Costello,,0,0,0,0,did not bat,10,2.0,0,22,0,6,0
+6231057,2024,07/09/2024,2nd XI,6th XI,Kabir Rab,,0,0,0,0,did not bat,11,8.0,2,25,2,3,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Raheel Khan,,21,0,4,0,ct,1,5.0,0,43,2,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Yusuf Khan,,28,0,5,1,ct,2,0.0,0,0,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Lewis Thompson,,85,0,7,1,b,3,4.5,0,22,4,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Callum Wilson,,38,0,5,0,ct,4,0.0,0,0,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Rob Leybourne,,35,0,4,1,ct,5,6.0,0,26,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Kevin Leathers,,6,0,1,0,not out,6,0.0,0,0,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Ben Woodbridge,,4,0,1,0,lbw,7,0.0,0,0,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Ishaan Kundu,,0,0,0,0,not out,8,0.0,0,0,0,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Craig Ottaway,,0,0,0,0,did not bat,9,8.0,2,29,1,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Jonny Carpenter,,0,0,0,0,did not bat,10,8.0,1,40,2,0,0
+6230336,2024,07/09/2024,1st XI,2nd XI,Joe Yerrell,,0,0,0,0,did not bat,11,6.0,0,28,1,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Jon Lown,,15,35,2,0,ct,1,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Ted Sussum,,1,8,0,0,ct,2,3.0,0,46,0,0,4
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Iain Stewart,,0,3,0,0,ct,3,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,James Lagdon,,17,37,2,0,run out,4,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Henry Sussum,,52,40,8,2,b,5,3.0,1,5,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Luke Bell,,9,20,2,0,ct,6,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Joe Foster,,2,9,0,0,ct,7,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Craig Ottaway,,1,10,0,0,ct,8,5.0,2,39,0,0,1
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Ishaan Kundu,,11,17,2,0,ct,9,0.0,0,0,0,0,0
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Archie Bellamy,,2,9,0,0,ct,10,2.0,0,35,0,3,2
+6538130,2024,08/09/2024,Sunday 1st XI,1st XI,Kabir Rab,,7,3,1,0,not out,11,3.0,0,20,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Jon Lown,,75,101,7,0,not out,1,0.0,0,0,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Raheel Khan,,10,12,1,0,b,2,3.0,0,32,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Kevin Leathers,,11,34,1,0,b,3,0.0,0,0,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Iain Stewart,,40,35,8,0,b,4,0.0,0,0,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Joe Foster,,1,8,0,0,lbw,5,6.0,0,36,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Chris Morris,,15,12,3,0,b,6,6.0,0,41,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Joe Yerrell,,2,6,0,0,ct,7,7.0,0,49,1,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,17,11,3,0,not out,8,0.0,0,0,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Ross Davies,,0,0,0,0,did not bat,9,3.0,0,40,2,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,James Meek,,0,0,0,0,did not bat,10,3.0,0,45,0,0,0
+6538131,2024,15/09/2024,Sunday 1st XI,Friendly XI,Kabir Rab,,0,0,0,0,did not bat,11,7.0,1,45,2,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Jon Lown,,39,63,6,0,ct,1,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Ted Sussum,,17,14,4,0,ct,2,4.0,0,36,0,0,2
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Iain Stewart,,1,8,0,0,ct,3,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,D Simmons,,19,20,3,0,ct,4,7.0,0,66,0,6,1
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Geoffrey Sussum,,12,22,1,0,b,5,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Alastair Rowe,,2,12,0,0,b,6,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Joe Foster,,0,14,0,0,ct,7,6.0,0,49,0,2,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,James Lagdon,,43,35,6,1,not out,8,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Kevin Leathers,,23,24,4,0,not out,9,7.0,0,50,1,6,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Joe Yerrell,,0,0,0,0,did not bat,10,7.0,1,50,1,3,2
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,Paul Green,,0,0,0,0,did not bat,11,0.0,0,0,0,0,0
+6538134,2024,29/09/2024,Sunday 1st XI,Friendly XI,James Meek,,0,0,0,0,did not bat,12,4.0,0,43,0,0,0

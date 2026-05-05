@@ -1,7 +1,7 @@
 import sys
 from datetime import datetime
 from pathlib import Path
-from pull_current_season_player_data import pull_player_data, get_csv_output_path, cricket_club_dict
+from pull_season_player_data import pull_player_data, get_csv_output_path, cricket_club_dict
 from generate_tables import generate_tables
 
 
