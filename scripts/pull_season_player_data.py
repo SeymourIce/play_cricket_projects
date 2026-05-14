@@ -318,7 +318,7 @@ def filter_matches_by_date(matches, last_run_date):
 
 def get_csv_output_path(club_name, current_season):
     """Get the path for the CSV output file"""
-    return Path(__file__).parent.parent / 'data' / club_name.lower().replace(' ', '_') / str(current_season) / 'player_data' / f"{club_name.lower().replace(' ', '_')}_{current_season}_player_data.csv"
+    return Path(__file__).root / 'data' / club_name.lower().replace(' ', '_') / str(current_season) / 'player_data' / f"{club_name.lower().replace(' ', '_')}_{current_season}_player_data.csv"
 
 def load_existing_player_data(csv_path):
     """Load existing player data from CSV"""

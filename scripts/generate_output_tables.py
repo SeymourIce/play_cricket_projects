@@ -2,23 +2,15 @@ import pandas as pd
 from pathlib import Path
 import sys
 
-
-def generate_tables(csv_path, output_path=None, season=None):
-    csv_path = Path(csv_path)
-    if output_path is None:
-        output_path = Path(__file__).parent.parent / 'tables.html'
-    else:
-        output_path = Path(output_path)
-
-    if season is None:
-        season = ''
+def aggregate_data(csv_path, season=None):
 
     df = pd.read_csv(csv_path)
+
     if season:
         df = df[df['season'] == int(season)]
 
-    batting_df = df[df['batting_position'] != ''].copy()
-    batting_stats = batting_df.groupby('player_name').agg({
+    batting_df = df[df['how_out'] != 'did not bat'].copy()
+    batting_stats = batting_df.groupby('player_name').agg({        
         'runs_scored': 'sum',
         'balls_faced': 'sum',
         'fours': 'sum',
@@ -40,6 +32,11 @@ def generate_tables(csv_path, output_path=None, season=None):
         lambda row: (row['runs_scored'] / row['balls_faced']) * 100 if row['balls_faced'] > 0 else 0,
         axis=1
     )
+    batting_stats['boundary_%'] = batting_stats.apply(
+        lambda row: ((row['fours'] * 4 + row['sixes'] * 6 ) / row['runs_scored']) * 100 if (row['fours']+row['sixes']) > 0 else 0,
+        axis=1
+    )
+
     batting_stats = batting_stats.sort_values('average', ascending=False)
 
     bowling_df = df[df['overs'] > 0].copy()
@@ -60,7 +57,17 @@ def generate_tables(csv_path, output_path=None, season=None):
         lambda row: row['runs_conceded'] / row['overs'] if row['overs'] > 0 else 0,
         axis=1
     )
+
     bowling_stats = bowling_stats.sort_values('average', ascending=True)
+
+    return batting_stats, bowling_stats
+
+def generate_averages_tables(batting_stats, bowling_stats, output_path=None, season=None):
+
+    if output_path is None:
+        output_path = Path(__file__).root / 'data' / club_name.lower().replace(' ', '_') / str(season) / 'reports' / f"{club_name.lower().replace(' ', '_')}_{season}_averages_tables.html"
+    else:
+        output_path = Path(output_path)
 
     if not season and 'season' in df.columns and not df.empty:
         season = int(df['season'].iloc[0])
@@ -142,16 +149,30 @@ def generate_tables(csv_path, output_path=None, season=None):
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text('\n'.join(html), encoding='utf-8')
+
+    print(f"Generated averages tables at {output_path}")
+    
     return output_path
 
+def generate_leaderboards(batting_stats_df, bowling_stats_df):
+
+    top_runscorers = batting_stats_df.sort_values('runs_scored', ascending=False).head(10)
+    most_sixes = batting_stats_df.sort_values('sixes', ascending=False).head(10)
+
+    top_wicket_takers = bowling_stats_df.sort_values('wickets', ascending=False).head(10)
+
+    return top_runscorers, top_wicket_takers
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Usage: python generate_tables.py <csv_path> [output_html] [season]')
+        print('Usage: python generate_tables.py <csv_path> <season> [output_html]')
         sys.exit(1)
 
     csv_path = sys.argv[1]
-    output_html = sys.argv[2] if len(sys.argv) > 2 else None
-    season = sys.argv[3] if len(sys.argv) > 3 else None
-    output_path = generate_tables(csv_path, output_html, season)
-    print(f'Tables generated in {output_path}')
+    season = sys.argv[2] 
+    output_html = sys.argv[3] if len(sys.argv) > 3 else None
+
+    batting_stats, bowling_stats = aggregate_data(csv_path, season)
+
+    averages_output_path = generate_averages_tables(batting_stats, bowling_stats, output_html, season)
+    

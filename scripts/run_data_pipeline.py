@@ -2,7 +2,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from pull_season_player_data import pull_player_data, get_csv_output_path, cricket_club_dict
-from generate_tables import generate_tables
+from generate_output_tables import generate_averages_tables
 
 
 def run_data_pipeline(club_id, season=None):
@@ -20,7 +20,7 @@ def run_data_pipeline(club_id, season=None):
             return None
 
     output_path = Path(__file__).parent.parent / 'tables.html'
-    output_path = generate_tables(csv_path, output_path, season)
+    output_path = generate_averages_tables(csv_path, output_path, season)
     print(f"Data pipeline completed. Generated tables at {output_path}")
     return output_path
 
